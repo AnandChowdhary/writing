@@ -99,6 +99,8 @@ Indicate why you prefer to carry out your research at the host institute includi
 - (concrete) outcomes for society and other academic disciplines;
 - the period over which knowledge utilisation is expected to occur.
 
+In this day and age of fast-paced technology, a new generation of computers and smartphones comes
+
 ### 2c. Number of words used
 
 Section 2a: **1,635** (max. 2,000 words)  
@@ -122,3 +124,5 @@ Section 2b: **0** (max. 750 words)
 ## Cost estimates
 
 ###  3a. Budget
+
+*Insert cost analysis table here*
