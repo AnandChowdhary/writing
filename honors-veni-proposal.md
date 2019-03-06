@@ -51,7 +51,7 @@ A combination of literature research with surveys, interviews, and analytics wil
 
 ###### towards the design of the platform
 
-For developing the platform, each feature will be assessed based on literature research and interviews. For example, interviews will be conducted with students to identify the distraction and motivational aspects of revising at home, and the results will be used to build a solution implemented in the platform (e.g., engagement through notifications). The design of this study with be factorial, i.e., the study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels. This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
+For developing the platform, each feature will be assessed based on literature research and interviews. For example, interviews will be conducted with students to identify the distraction and motivational aspects of revising at home, and the results will be used to build a solution implemented in the platform (e.g., engagement through notifications). The design of this study with be factorial, i.e., the study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels, This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
 
 ###### experimental study to show effects
 
@@ -62,7 +62,7 @@ Test
 - local, national and international collaboration;
 - work plan (in narrative form).
 
-The study will be conducted over two years and will go through all the aforementioned methods and stages. In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have. After that, a factorial study will be conducted over six months evaluating each feature individually and finding which combination works the best for students. The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipa
+The study will be conducted over two years and will go through all the aforementioned methods and stages. In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have. After that, a factorial study will be conducted over six months evaluating each feature individually and finding which combination works the best for students. The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipalities and educational instituted will be established. Therefore, the primary partners for this study will be the Ministry of Education, Culture and Science, and provinces whose students participate in the study.
 
 #### 2a3. Motivation for choice of host institute
 Indicate why you prefer to carry out your research at the host institute including:
