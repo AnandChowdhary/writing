@@ -140,3 +140,10 @@ Section 2b: **326** (max. 750 words)
 
 *Insert cost analysis table here*
 
+### 3b. Contributions ‘in kind’
+
+### 3c. Contributions ‘in cash’
+### 3d. Totals
+### 3e. Intended starting date
+### 3f. Additional grants
+*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* Yes (details)
