@@ -62,7 +62,12 @@ For developing the platform, each feature will be assessed based on literature r
 
 The design of this study with be factorial, i.e., the study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels, which will measure student grades in each factorial unit. This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
 
-###### complete proposal method
+#### 2a2. Research plan, including:
+- practical timetable/timeline over the grant period;
+- local, national and international collaboration;
+- work plan (in narrative form).
+
+The study will be conducted over two years and will go through all the aforementioned methods and stages. In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have. After that, a factorial study will be conducted over one year evaluating each feature individually and finding which combination works the best for students.
 
 The following example is a 3x3 factorial study with the following factors: Engagement through notifications, interactive content (videos and games), and gamification of platform. In the proposed study, the factors will be determined using literature research.
 
@@ -72,14 +77,9 @@ The following example is a 3x3 factorial study with the following factors: Engag
 | **⭐ Interactive content (videos and games)** | 🔔⭐ Interactive content with notifications | ⭐ Only interactive content | 🎮⭐ Gamification with interactive content |
 | **🎮 Gamification of platform** | 🔔🎮 Gamification with notifications | 🎮⭐ Gamification with interactive content | 🎮 Only gamification |
 
-Therefore, there are 7 possibilities (3 individual factors + 3 combinations + 1 with all factors), all of which will be assessed for a student's grade. At the end of this process, the best combination will be concluded.
+Therefore, there are 3! + 1 = 7 possibilities (3 individual factors + 3 combinations + 1 with all factors), all of which will be assessed for a student's performance as measured by h grade . At the end of this process, the best combination will be concluded.
 
-#### 2a2. Research plan, including:
-- practical timetable/timeline over the grant period;
-- local, national and international collaboration;
-- work plan (in narrative form).
-
-The study will be conducted over two years and will go through all the aforementioned methods and stages. In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have. After that, a factorial study will be conducted over o evaluating each feature individually and finding which combination works the best for students. The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipalities and educational instituted will be established. Therefore, the primary partners for this study will be the Ministry of Education, Culture and Science, and provinces whose students participate in the study.
+The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipalities and educational instituted will be established. Therefore, the primary partners for this study will be the Ministry of Education, Culture and Science, and provinces whose students participate in the study.
 
 #### 2a3. Motivation for choice of host institute
 Indicate why you prefer to carry out your research at the host institute including:
