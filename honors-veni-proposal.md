@@ -59,8 +59,8 @@ The design of this study with be factorial, i.e., the study will be divided into
 
 | | Engagement through notifications | Interactive content (videos and games) | Gamification of platform |
 | - | - | - | - |
-| Engagement through notifications | Only engagement | Interactive content with n | A |
-| Interactive content (videos and games) | A | A | A |
+| Engagement through notifications | Only notifications | Interactive content with notifications | Gamification with notifications |
+| Interactive content (videos and games) | Interactive content with notifications | A | A |
 | Gamification of platform | A | A | A |
 
 #### 2a2. Research plan, including:
