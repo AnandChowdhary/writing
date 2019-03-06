@@ -99,9 +99,7 @@ Indicate why you prefer to carry out your research at the host institute includi
 - (concrete) outcomes for society and other academic disciplines;
 - the period over which knowledge utilisation is expected to occur.
 
-In this day and age of fast-paced technology, a new generation of computers and smartphones comes out every few years, but grade education has not changed for a very long time. This is unfortunate because education is perhaps the most important tool with which governments can empower their young population and secure their future. The proposed study aims to add value to the traditional classroom and promote practice at home using an e-learning platform. Once the study has proved the utility of the platform and increase in learning, it can be implemented in real schools in the Netherlands and around the world.
-
-The value of a good education is u
+In this day and age of fast-paced technology, a new generation of computers and smartphones comes out every few years, but grade education has not changed for a very long time. This is unfortunate because education is perhaps the most important tool with which governments can empower their young population and secure their future. The proposed study aims to add value to the traditional classroom and promote practice at home using an e-learning platform. The true value of a good education is intangible, and making the education process better for students adds tremendous value to society.
 
 ### 2c. Number of words used
 
