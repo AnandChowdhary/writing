@@ -155,4 +155,4 @@ Section 2b: **326** (max. 750 words)
 ### 3d. Totals
 ### 3e. Intended starting date
 ### 3f. Additional grants
-*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* A prototype of this the proplatform
+*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* A prototype of the proposed platform was presented at a hackthon, Brighthack, in November 2018. As the winning prize, Educatieve Agenda Limburg committed to contributing €12,500 for building the platform. [More information]
