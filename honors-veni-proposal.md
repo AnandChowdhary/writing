@@ -144,15 +144,15 @@ Section 2b: **326** (max. 750 words)
 
 | Co-financier/party | Description | Estimated value |
 | - | - | - |
-| Oswald Labs Research | Cloud credits for data storage and hosting | 5,000 |
+| Oswald Labs Research | Cloud credits for data storage and hosting | €5,000 |
 
 ### 3c. Contributions ‘in cash’
 
-| Co-financier/party | Description | Estimated va |
+| Co-financier/party | Description | Estimated value |
 | - | - | - |
-| Educatieve Agenda Limburg | Cloud credits for data storage and hosting | 12,500 |
+| Educatieve Agenda Limburg | Funding to build and test platform | €12,500 |
 
 ### 3d. Totals
 ### 3e. Intended starting date
 ### 3f. Additional grants
-*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* Yes (details)
+*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* A prototype of this the proplatform
