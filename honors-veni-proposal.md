@@ -11,6 +11,7 @@
 
 In the proposed research, the question asked is: “Does implementing an e-learning solution with data-driven engagement features for homework and practice alongside the classroom increase student grades in secondary education?” For this, a web and app-based platform will be developed and studied to compare results with not having the platform, and each sub-question of this research aims to achieve a proof-of-concept feature in said platform. **The expected outcome of the proposed research will be (web platform that supports …) and (understanding of how such platform impacts ...)**
 
+
 #### 2a2. Research plan, including:
 - practical timetable/timeline over the grant period;
 - local, national and international collaboration;
