@@ -60,10 +60,10 @@ The design of this study with be factorial, i.e., the study will be divided into
 | 🔔⭐🎮 Combination of all  3 factors | 🔔 Engagement through notifications | ⭐ Interactive content (videos and games) | 🎮 Gamification of platform |
 | - | - | - | - |
 | **🔔 Engagement through notifications** | 🔔 Only notifications | 🔔⭐ Interactive content with notifications | 🔔🎮 Gamification with notifications |
-| **⭐ Interactive content (videos and games)** | 🔔⭐ Interactive content with notifications | ⭐ Only interactive content | ⭐ Gamification with interactive content |
+| **⭐ Interactive content (videos and games)** | 🔔⭐ Interactive content with notifications | ⭐ Only interactive content | 🎮⭐ Gamification with interactive content |
 | **🎮 Gamification of platform** | 🔔🎮 Gamification with notifications | 🎮⭐ Gamification with interactive content | 🎮 Only gamification |
 
-Therefore, there are 
+Therefore, there are 7 possibilities (3 individual factors + 3 combinations + a)
 
 #### 2a2. Research plan, including:
 - practical timetable/timeline over the grant period;
