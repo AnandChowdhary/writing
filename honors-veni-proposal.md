@@ -154,8 +154,10 @@ Section 2b: **326** (max. 750 words)
 
 ### 3d. Totals
 
-| Grand total | a |
-
+| | |
+| - | - |
+| **Grand total** | €0 = 3a |
+| **Budget requested from NWO** | €0 = 3a – (€17500) |
 
 ### 3e. Intended starting date
 
