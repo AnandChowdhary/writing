@@ -98,5 +98,16 @@ Indicate why you prefer to carry out your research at the host institute includi
 
 ### 2c. Number of words used
 
-Section 2a: 1 (max. 2,000 words) 
-Section 2b: 100 (max. 750 words)
+Section 2a: **1,635** (max. 2,000 words) 
+Section 2b: **0** (max. 750 words)
+
+### 2d. Literature references
+
+1. Reference 1
+1. Reference 2
+
+### 2e. Data Management
+
+*Insert note about data management*
+
+#
