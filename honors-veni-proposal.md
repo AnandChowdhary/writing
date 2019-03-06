@@ -42,13 +42,11 @@ in addition, there’s the pain points of teachers not yet being solved, despite
 
 Therefore, this research proposal aims to:
 
-- Integrate what is already known about e-learning in general with ahomework use setting
+- Integrate what is already known about e-learning in general with a specific, homework use case
+- Show that the platform contributes to learning in real practice by comparing standard test scores of a control group (students without access to the e-learning platform) and a treatment group (students with access to the platform without forcing them to use it), and to show that the latter scores higher than the former
+- Show how each of the features in the platform individually contribute to this effect by testing features separately and in combination
 
-O3: We aim to show that the platform contributes to learning in real practice by comparing standard test scores of a control group (students without access to the e-learning platform) and a treatment group (students with access to the platform without forcing them to use it), and to show that the latter scores higher than the former. 
-
-O4: We aim to show how each of the features individually contribute to this effect by testing features separately and in combination.
-
-(and in addition I will take into account these pain points: identifying the pain points of teachers when implementing digital learning solutions and how the learning curve can be reduced for said platforms. The platform designed in this research aims to bridge that gap by empowering teachers with...)
+In addition, the process with also take into account these pain points: *identifying the pain points of teachers when implementing digital learning solutions and how the learning curve can be reduced for said platforms. The platform designed in this research aims to bridge that gap by empowering teachers with...*
 
 METHOD
 
