@@ -57,7 +57,9 @@ For developing the platform, each feature will be assessed based on literature r
 
 The design of this study with be factorial, i.e., the study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels, which will measure student grades in each factorial unit. This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
 
-The following example is a 3x3 factorial study with the following factors: Engagement through notifications, interactive content (videos and games), and gamification of platform. In the proposed study, the factors will be determined using literature e
+###### complete proposal method
+
+The following example is a 3x3 factorial study with the following factors: Engagement through notifications, interactive content (videos and games), and gamification of platform. In the proposed study, the factors will be determined using literature research.
 
 | 🔔⭐🎮 Combination of all  3 factors | 🔔 Engagement through notifications | ⭐ Interactive content (videos and games) | 🎮 Gamification of platform |
 | - | - | - | - |
@@ -81,7 +83,8 @@ Indicate why you prefer to carry out your research at the host institute includi
 - Any other motivation for your choice of the host institute.
 
 ### 2b. Knowledge utilisation
-(Max. 750 words on max. two pages) 
+
+
 
 #### Potential (or explanation of lack thereof), including: 
 - contribution to society and/or other scientific areas;
