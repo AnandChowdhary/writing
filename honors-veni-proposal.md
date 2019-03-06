@@ -130,7 +130,9 @@ Section 2b: **326** (max. 750 words)
 ### 2e. Data Management
 
 1. *Will data be collected or generated that are suitable for reuse?* Yes
-
+1. *Where will the data be stored during the research?* During the research, real-time data will be collection from platform usage and stored in a NoSQL database
+1. *After the project has been completed, how will the data be stored for the long-term and made available for the use by third parties? To whom will the data be accessible?*
+1. *Which facilities (ICT, (secure) archive, refrigerators or legal expertise) do you expect will be needed for the storage of data during the research and after the research? Are these available?*
 
 ## Cost estimates
 
