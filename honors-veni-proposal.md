@@ -8,12 +8,10 @@
 - methods and techniques.
 
 ##### mini-summary of RQ and approach and expected outcome
-In the proposed research, the question asked is: “Does implementing an e-learning solution with data-driven engagement features for homework and practice alongside the classroom increase student grades in secondary education?” For this, a web and app-based platform will be developed and studied to compare results with not having the platform, and each sub-question of this research aims to achieve a proof-of-concept feature in said platform. The expected outcome of the proposed research will be building a web platform t
-
-(web platform that supports …) and (understanding of how such platform impacts ...)
+In the proposed research, the question asked is: “Does implementing an e-learning solution with data-driven engagement features for homework and practice alongside the classroom increase student grades in secondary education?” For this, a web and app-based platform will be developed and studied to compare results with not having the platform, and each sub-question of this research aims to achieve a proof-of-concept feature in said platform.
 
 ##### aim
-we aim to improve learning and homework
+We aim to improve the homework 
 
 ##### motivation: importance, and problematisation, of homework
 It has been shown that homework plays a critical, long-term role in the development of student’s achievement motivation and gives them time and experience to develop positive beliefs about achievement. It also teaches them strategies for coping with mistakes, difficulties, and setbacks (Bempechat, 2010). Research conducted in the United States since 1987 also shows that there is generally consistent evidence for a positive influence of homework on a student’s achievement (Cooper et al., 2006). However, the problem of homework completion  has been evidenced by existing grade and homework reports and teacher and student surveys (Renee at al., 1997). The problem aimed to solve that students are not motivated to go home and revise what is being taught in the classroom. This can result in test fatigue when preparing large amounts of content in a short period of time, and also adds pressure and stress in students’ lives.
