@@ -109,7 +109,7 @@ Once the study has proved the utility of the platform and increase in learning, 
 
 ##### scientific relevance
 
-Furthermore,
+Furthermore, the proposed study will also add value as scientific knowledge. Once concluded and peer reviewed, there will be a large dataset of student performance corresponding to each set of e-learning featu
 
 ### 2c. Number of words used
 
