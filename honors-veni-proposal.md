@@ -44,6 +44,7 @@ Therefore, this research proposal aims to:
 - Show that the platform contributes to learning in real practice by comparing standard test scores of a control group (students without access to the e-learning platform) and a treatment group (students with access to the platform without forcing them to use it), and to show that the latter scores higher than the former
 - Show how each of the features in the platform individually contribute to this effect by testing features separately and in combination
 
+
 In addition, the process with also take into account these pain points: *identifying the pain points of teachers when implementing digital learning solutions and how the learning curve can be reduced for said platforms. The platform designed in this research aims to bridge that gap by empowering teachers with...*
 
 ##### method
