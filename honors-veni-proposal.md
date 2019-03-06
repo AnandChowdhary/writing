@@ -105,7 +105,7 @@ In this day and age of fast-paced technology, a new generation of computers and 
 
 ##### implementation
 
-Once the study has proved the utility of the platform and increase in learning, it can be implemented in real schools in the Netherlands and around the world. Once the 
+Once the study has proved the utility of the platform and increase in learning, it can be implemented in real schools in the Netherlands and around the world. During the research, several schools in the Netherlands (~10) will participate and may see improvements in students' learning. After that, a trial can be conducted in all schools in a single province, and then this can be extended to al ls
 
 This means that the study will not just add value to the understanding of what makes learning better for students, but truly achieve this purpose. Another study can be conducted to measure any long-term effects of the implementation as well.
 
