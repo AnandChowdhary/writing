@@ -88,8 +88,6 @@ Indicate why you prefer to carry out your research at the host institute includi
 
 ### 2b. Knowledge utilisation
 
-...
-
 #### Potential (or explanation of lack thereof), including: 
 - contribution to society and/or other scientific areas;
 - disciplines and organisations that might benefit from the results.
