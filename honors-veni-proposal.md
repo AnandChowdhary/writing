@@ -38,7 +38,7 @@ Although the aforementioned studies show that e-learning has potential benefits 
 
 in addition, there’s the pain points of teachers not yet being solved, despite being addressed previously, we also want to keep that in mind. And maybe some other stuff.
 
-OBJECTIVES
+#
 
 And therefore research paper  will do this-and-that…
 
