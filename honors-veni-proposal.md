@@ -114,7 +114,7 @@ Furthermore, the proposed study will also add value as scientific knowledge. Onc
 ### 2c. Number of words used
 
 Section 2a: **1,635** (max. 2,000 words)  
-Section 2b: **3** (max. 750 words)
+Section 2b: **326** (max. 750 words)
 
 ### 2d. Literature references
 
@@ -129,7 +129,8 @@ Section 2b: **3** (max. 750 words)
 
 ### 2e. Data Management
 
-*Insert note about data management*
+1. *Will data be collected or generated that are suitable for reuse?* Yes
+
 
 ## Cost estimates
 
