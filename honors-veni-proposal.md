@@ -47,11 +47,13 @@ Therefore, this research proposal aims to:
 
 ##### method
 
-A combination of literature research with surveys, interviews, and analytics will be used in this research, along with conducting research with a diverse set of students from different schools around the Netherlands. To show that the platform truly contributes to better learning, a controlled experiment will be conducted at the end of the study with students with approximately equal g
+A combination of literature research with surveys, interviews, and analytics will be used in this research, along with conducting research with a diverse set of students from different schools around the Netherlands. To show that the platform truly contributes to better learning, a controlled experiment will be conducted at the end of the study with students who previously scored approximately equal grades.
 
-(possibly also split out method per objective if that makes sense)
+###### towards the design of the platform
 
-SPLIT METHOD ALSO BETWEEN “TOWARDS THE DESIGN OF THE PLATOFMR” AND “EXPERIMENTAL STUDY TO SHOW EFFECTS” 
+For developing the platfor
+
+###### experimental study to show effects
 
 much more detailed methodology of the objective
 The design of this study with be factorial, i.e., the study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels. This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
