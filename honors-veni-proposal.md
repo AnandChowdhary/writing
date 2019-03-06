@@ -4,7 +4,7 @@
 
 #### 2a1. Overall aim and key objectives, including:
 - scientific relevance and challenges;
-- originality and innovative character;
+- originality and innovative character; 
 - methods and techniques.
 
 ##### mini-summary of RQ and approach and expected outcome
