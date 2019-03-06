@@ -47,7 +47,7 @@ Therefore, this research proposal aims to:
 
 ##### method
 
-A combination of literature research with surveys, interviews, and analytics will be used in this research, along with conducting research with a diverse set of students from different schools around the Netherlands.
+A combination of literature research with surveys, interviews, and analytics will be used in this research, along with conducting research with a diverse set of students from different schools around the Netherlands. 
 
 (possibly also split out method per objective if that makes sense)
 
