@@ -1,3 +1,5 @@
+# VENI Form
+
 ## Research Proposal
 
 ### 2a1, 2a2, and 2a3. Description of the proposed research
@@ -6,6 +8,7 @@
 - scientific relevance and challenges;
 - originality and innovative character; 
 - methods and techniques.
+
 
 ##### mini-summary of RQ and approach and expected outcome
 In the proposed research, the question asked is: “Does implementing an e-learning solution with data-driven engagement features for homework and practice alongside the classroom increase student grades in secondary education?” For this, a web and app-based platform will be developed and studied to compare results with not having the platform, and each sub-question of this research aims to achieve a proof-of-concept feature in said platform. We aim to improve the homework experience for students, which in turn will increase their performance.
@@ -110,4 +113,6 @@ Section 2b: **0** (max. 750 words)
 
 *Insert note about data management*
 
-#
+## Cost estimates
+
+###  3a. Budget
