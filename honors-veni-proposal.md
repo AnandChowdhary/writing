@@ -62,7 +62,7 @@ Test
 - local, national and international collaboration;
 - work plan (in narrative form).
 
-The study will be conducted over two years and will go through all the aforementioned methods and stages. In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have. After that, a factorial study will be conducted over six months evaluating each feature individually and finding which combination works the best for students. 
+The study will be conducted over two years and will go through all the aforementioned methods and stages. In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have. After that, a factorial study will be conducted over six months evaluating each feature individually and finding which combination works the best for students. The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipa
 
 #### 2a3. Motivation for choice of host institute
 Indicate why you prefer to carry out your research at the host institute including:
