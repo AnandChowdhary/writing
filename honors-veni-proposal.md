@@ -109,12 +109,12 @@ Once the study has proved the utility of the platform and increase in learning, 
 
 ##### scientific relevance
 
-Furthermore, the proposed study will also add value as scientific knowledge. Once concluded and peer reviewed, a large dataset will be compiled and released of student performance corresponding to each set of e-learning features. This means that other statistics or machine learning applications can also come out of this research. Finally, the publication of these findings will also be useful since it will be the first large-scale and comprehensive study which will evaluate several different aspects of e-learning, and also explore the benefits of homework via e-learning. Other researchers can build of top of this study 
+Furthermore, the proposed study will also add value as scientific knowledge. Once concluded and peer reviewed, a large dataset will be compiled and released of student performance corresponding to each set of e-learning features. This means that other statistics or machine learning applications can also come out of this research. Finally, the publication of these findings will also be useful since it will be the first large-scale and comprehensive study which will evaluate several different aspects of e-learning, and also explore the benefits of homework via e-learning. Other researchers can build of top of this study and compare the utility of other features in e-learning which are not considered in this research.
 
 ### 2c. Number of words used
 
 Section 2a: **1,635** (max. 2,000 words)  
-Section 2b: **0** (max. 750 words)
+Section 2b: **3** (max. 750 words)
 
 ### 2d. Literature references
 
