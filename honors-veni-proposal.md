@@ -59,9 +59,9 @@ The design of this study with be factorial, i.e., the study will be divided into
 
 | 🔔⭐🎮 Combination of all  3 factors | 🔔 Engagement through notifications | ⭐ Interactive content (videos and games) | 🎮 Gamification of platform |
 | - | - | - | - |
-| **🔔Engagement through notifications** | 🔔 Only notifications | 🔔⭐ Interactive content with notifications | 🔔🎮 Gamification with notifications |
-| **Interactive content (videos and games)** | 🔔⭐ Interactive content with notifications | ⭐ Only interactive content | ⭐🎮 Gamification with interactive content |
-| **Gamification of platform** | 🔔🎮 Gamification with notifications | 🎮⭐ Gamification with interactive content | 🎮 Only gamification |
+| **🔔 Engagement through notifications** | 🔔 Only notifications | 🔔⭐ Interactive content with notifications | 🔔🎮 Gamification with notifications |
+| **⭐ Interactive content (videos and games)** | 🔔⭐ Interactive content with notifications | ⭐ Only interactive content | ⭐ Gamification with interactive content |
+| **🎮 Gamification of platform** | 🔔🎮 Gamification with notifications | 🎮⭐ Gamification with interactive content | 🎮 Only gamification |
 
 Therefore, there are 
 
