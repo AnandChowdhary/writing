@@ -7,6 +7,7 @@
 -	originality and innovative character;
 -	methods and techniques.
 
+
 #### 2a2. Research plan, including:
 -	practical timetable/timeline over the grant period;
 -	local, national and international collaboration;
