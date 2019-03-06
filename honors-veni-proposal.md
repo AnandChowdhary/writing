@@ -131,7 +131,7 @@ Section 2b: **326** (max. 750 words)
 
 1. *Will data be collected or generated that are suitable for reuse?* Yes
 1. *Where will the data be stored during the research?* During the research, real-time data will be collection from platform usage and stored in a NoSQL database in the cloud. A data processing agreement will be signed between the researchers and a third party (such as Amazon Web Services or Google Cloud) and the data processors will be clearly indicated.
-1. *After the project has been completed, how will the data be stored for the long-term and made available for the use by third parties? To whom will the data be accessible?* Once the research is concluded, all collected data will be anonymized
+1. *After the project has been completed, how will the data be stored for the long-term and made available for the use by third parties? To whom will the data be accessible?* Once the research is concluded, all collected data will be anonymized and any personally-identifiable information will be redacted. After this process is completed, all data will be released to the public domain under the Twente License, to ensure privacy .
 1. *Which facilities (ICT, (secure) archive, refrigerators or legal expertise) do you expect will be needed for the storage of data during the research and after the research? Are these available?*
 
 ## Cost estimates
