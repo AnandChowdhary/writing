@@ -57,13 +57,6 @@ For developing the platform, each feature will be assessed based on literature r
 
 The design of this study with be factorial, i.e., the study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels, which will measure student grades in each factorial unit. This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
 
-| 🔔⭐🎮 Combination of all  3 factors | 🔔 Engagement through notifications | ⭐ Interactive content (videos and games) | 🎮 Gamification of platform |
-| - | - | - | - |
-| **🔔 Engagement through notifications** | 🔔 Only notifications | 🔔⭐ Interactive content with notifications | 🔔🎮 Gamification with notifications |
-| **⭐ Interactive content (videos and games)** | 🔔⭐ Interactive content with notifications | ⭐ Only interactive content | 🎮⭐ Gamification with interactive content |
-| **🎮 Gamification of platform** | 🔔🎮 Gamification with notifications | 🎮⭐ Gamification with interactive content | 🎮 Only gamification |
-
-Therefore, there are 7 possibilities (3 individual factors + 3 combinations + a)
 
 #### 2a2. Research plan, including:
 - practical timetable/timeline over the grant period;
