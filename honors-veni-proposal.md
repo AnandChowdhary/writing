@@ -153,6 +153,13 @@ Section 2b: **326** (max. 750 words)
 | Educatieve Agenda Limburg | Funding to build and test platform | €12,500 |
 
 ### 3d. Totals
+
+| Grand total | a |
+
+
 ### 3e. Intended starting date
+
+September 1, 2019
+
 ### 3f. Additional grants
-*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* A prototype of the proposed platform was presented at a hackthon, Brighthack, in November 2018. As the winning prize, Educatieve Agenda Limburg committed to contributing €12,500 for building the platform. [More information]
+*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* Yes, a prototype of the proposed platform was presented at a hackthon (Brighthack) in November 2018. As the winning prize, Educatieve Agenda Limburg committed to contributing €12,500 for building the platform. [More information](https://anandchowdhary.com/projects/aristotle/)
