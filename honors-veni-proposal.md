@@ -142,11 +142,15 @@ Section 2b: **326** (max. 750 words)
 
 ### 3b. Contributions ‘in kind’
 
-| Co-financier/party | Description | Estimated value in euros |
+| Co-financier/party | Description | Estimated value |
 | - | - | - |
 | Oswald Labs Research | Cloud credits for data storage and hosting | 5,000 |
 
 ### 3c. Contributions ‘in cash’
+
+| Co-financier/party | Description | Estimated va |
+| - | - | - |
+| Educatieve Agenda Limburg | Cloud credits for data storage and hosting | 12,500 |
 
 ### 3d. Totals
 ### 3e. Intended starting date
