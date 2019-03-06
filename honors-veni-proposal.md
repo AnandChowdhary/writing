@@ -38,13 +38,11 @@ Although the aforementioned studies show that e-learning has potential benefits 
 
 in addition, there’s the pain points of teachers not yet being solved, despite being addressed previously, we also want to keep that in mind. And maybe some other stuff.
 
-#
+##### objectives
 
-And therefore research paper  will do this-and-that…
+Therefore, this research proposal aims to:
 
-O1: (anything else?)
-
-O2: integrate what is already known about elearning in general specifically with homework use setting
+- Integrate what is already known about e-learning in general with ahomework use setting
 
 O3: We aim to show that the platform contributes to learning in real practice by comparing standard test scores of a control group (students without access to the e-learning platform) and a treatment group (students with access to the platform without forcing them to use it), and to show that the latter scores higher than the former. 
 
