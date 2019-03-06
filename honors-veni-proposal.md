@@ -77,9 +77,9 @@ The following example is a 3x3 factorial study with the following factors: Engag
 | **⭐ Interactive content (videos and games)** | 🔔⭐ Interactive content with notifications | ⭐ Only interactive content | 🎮⭐ Gamification with interactive content |
 | **🎮 Gamification of platform** | 🔔🎮 Gamification with notifications | 🎮⭐ Gamification with interactive content | 🎮 Only gamification |
 
-Therefore, there are 3! + 1 = 7 possibilities (3 individual factors + 3 combinations + 1 with all factors), all of which will be assessed for a student's performance as measured by h grade . At the end of this process, the best combination will be concluded.
+Therefore, there are 3! + 1 = 7 possibilities (3 individual factors + 3 combinations + 1 with all factors), all of which will be assessed for a student's performance as measured by their grade over a period of one academic year. At the end of this process, the best combination will be concluded.
 
-The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipalities and educational instituted will be established. Therefore, the primary partners for this study will be the Ministry of Education, Culture and Science, and provinces whose students participate in the study.
+The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipalities and educational instituted will be established. Therefore, the primary partners for this study will be the *Ministerie van Onderwijs, Cultuur en Wetenschappen*, and provinces whose students participate in the study. 
 
 #### 2a3. Motivation for choice of host institute
 Indicate why you prefer to carry out your research at the host institute including:
