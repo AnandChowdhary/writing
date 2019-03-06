@@ -48,7 +48,7 @@ Therefore, this research proposal aims to:
 
 In addition, the process with also take into account these pain points: *identifying the pain points of teachers when implementing digital learning solutions and how the learning curve can be reduced for said platforms. The platform designed in this research aims to bridge that gap by empowering teachers with...*
 
-METHOD
+#METHOD
 
 A combination of literature research with surveys, interviews, and analytics will be used in this research, along with conducting research with a diverse set of students from different schools around the Netherlands. 
 
