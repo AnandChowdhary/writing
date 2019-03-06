@@ -84,7 +84,7 @@ Indicate why you prefer to carry out your research at the host institute includi
 
 ### 2b. Knowledge utilisation
 
-
+...
 
 #### Potential (or explanation of lack thereof), including: 
 - contribution to society and/or other scientific areas;
@@ -95,3 +95,8 @@ Indicate why you prefer to carry out your research at the host institute includi
 - if and how the potential knowledge users will be involved;
 - (concrete) outcomes for society and other academic disciplines;
 - the period over which knowledge utilisation is expected to occur.
+
+### 2c. Number of words used
+
+Section 2a: 1 (max. 2,000 words) 
+Section 2b: 100 (max. 750 words)
