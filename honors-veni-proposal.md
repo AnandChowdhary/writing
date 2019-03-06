@@ -9,8 +9,9 @@
 - originality and innovative character; 
 - methods and techniques.
 
+***Note***: *In this section, there are subheadings explaining the purpose of each paragraph; these will not be a part of the final proposal.*
 
-##### mini-summary of RQ and approach and expected outcome
+##### mini-summary of RQ, approach, and expected outcome
 In the proposed research, the question asked is: “Does implementing an e-learning solution with data-driven engagement features for homework and practice alongside the classroom increase student grades in secondary education?” For this, a web and app-based platform will be developed and studied to compare results with not having the platform, and each sub-question of this research aims to achieve a proof-of-concept feature in said platform. We aim to improve the homework experience for students, which in turn will increase their performance.
 
 ##### motivation: importance, and problematization, of homework
@@ -106,8 +107,12 @@ Section 2b: **0** (max. 750 words)
 
 ### 2d. Literature references
 
-1. Reference 1
-1. Reference 2
+1. Bempechat, 2010
+1. Cooper et al., 2006
+1. Renee at al., 1997
+1. Benta at al., 2014
+1. Kodippili et al., 2007
+1. Talbot, 2012
 
 ### 2e. Data Management
 
