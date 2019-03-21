@@ -11,7 +11,7 @@ Evolutionary biology essay
 ## Introduction
 
 #### definition of consciousness
-Consciousness is what allows us to be aware both of our surroundings and of our own inner state. [^1]
+Consciousness is what allows us to be aware both of our surroundings and of our own inner state. [^fn1]
 
 Philosophers and scientists struggle to define consciousness. Different schools and ideas compete with one another, but no one has come close to figuring it out. In this fuzzy area, consciousness and intelligence are also related, although they are not the same.
 
@@ -54,7 +54,7 @@ So, what is the origin of our consciousness? It probably began as the directed m
 
 ## References
 
-1. [^1] Consciousness allows us to be aware of our surroundings and of our own inner state. [Consciousness, 2004](https://plato.stanford.edu/entries/consciousness/#ConCon)
+1. [^fn1] Consciousness allows us to be aware of our surroundings and of our own inner state. [Consciousness, 2004](https://plato.stanford.edu/entries/consciousness/#ConCon)
 2. Philosophers and scientists struggle to define consciousness. [Consciousness, 2004](https://plato.stanford.edu/entries/consciousness/#ConCon)
 3. Our consciousness is likely to have evolved from less complex forms, as a product of evolution.  [Minimal Selfhood and the Origins of Consciousness, 2018](http://nbn-resolving.org/urn:nbn:de:bvb:20-opus-157470)
 4. Some panpsychists claim that a lump of rock may have an inner life. [Panpsychism, 2017 [2001]](https://plato.stanford.edu/entries/panpsychism/#DefiPanp)
