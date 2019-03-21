@@ -60,6 +60,12 @@ As noted from the previous definitions, philosophers and biologists have struggl
 #### evolution by natural selection
 Evolution is the process of adaptation through mutation which allows more desirable characteristics to be passed to the next generation. Over time, organisms evolve more characteristics that are beneficial to their survival. For living organisms to adapt and change to environmental pressures, genetic variation must be present. With genetic variation, individuals have differences in form and function that allow some to survive certain conditions better than others. These organisms pass their favorable traits to their offspring. Eventually, environments change, and what was once a desirable, advantageous trait may become an undesirable trait and organisms may further evolve (OpenStax, 2016).
 
+##### history
+
+As described above, evolution by natural selection showcases a mechanism for how species change over time. That species change had been suggested and debated well before Darwin began to explore this idea. The view that species were static and unchanging was grounded in the writings of Plato, yet there were also ancient Greeks who expressed evolutionary ideas. In the 18th century, ideas about the evolution of animals were reintroduced by the naturalist Georges-Louis Leclerc, Comte de Buffon, who observed that various geographic regions have different plant and animal populations, even when the environments are similar.
+
+Furthermore, it was also already accepted that there were extinct species in the 18th century.
+
 ### Problem statement
 The answer to the research question "How did consciousness evolve in animals?" can therefore be answered: in organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian outcomes, it is therefore a "gradient" or steam of consciousness and therefore a hard line between conscious and lack thereof cannot be drawn. This essay aims to establish the link between evolution by natural selection and the origin of consciousness and to explore the various stages that lead to the current state of human consciousness.
 
@@ -93,6 +99,12 @@ Western scrub jays are experts in delayed gratification. They show an even more 
 
 #### language
 Language takes the ability to read minds and represent what is absent to a whole new level. Words enable us to construct hypotheses about the world, make detailed plans, and to communicate them with others. Words enable us to think about ourselves and our place in the universe, and even about our own consciousness.
+
+### More
+
+- discussions
+- open questions
+- recommendations for further research
 
 ## Conclusion
 
