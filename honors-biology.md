@@ -82,9 +82,7 @@ The word "panpsychism" literally means that everything has a mind. However, in c
 
 Some panpsychics (Chalmers, 2015) distinguish between constitutive and non-constitutive forms of panpsychism: Constitutive panpsychism: Forms of panpsychism according to which facts about human and animal consciousness are not fundamental, but are grounded in/realized by/constituted of facts about more fundamental kinds of consciousness, e.g., facts about micro-level consciousness. Non-Constitutive panpsychism: Forms of panpsychism according to which facts about human and animal consciousness are among the fundamental facts. Constitutive Micropsychism is the most common form of panpsychism (Goff et al., 2010), the view that all facts are grounded in/realized by/constituted of consciousness-involving facts at the micro-level.
 
-Although this means that some panpsychics do not believe that a rock is intrinsically conscious, but it consists of *tiny units of consciousness*. However, some non-Constitutive panpsychics argue that rocks are conscious too. I, for one, can only speak to the 
-
-Since there are is no experimental evidence to either prove or disprove panpsychism, though vague as its definition may be, living things are used as a starting point.
+Although this means that some panpsychics do not believe that a rock is intrinsically conscious, but it consists of *tiny units of consciousness*. However, some non-Constitutive panpsychics argue that rocks are conscious too. I, for one, can only speak to the consciousness of my own self, and since there are is no experimental evidence to either prove or disprove panpsychism, though vague as its definition may be, living things are used as a starting point.
 
 #### living things & energy
 A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. To do so, it needs energy. And this is where an awareness of the world comes in handy.
