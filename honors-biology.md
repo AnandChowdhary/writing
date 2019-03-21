@@ -97,19 +97,19 @@ When considering the smallest of organisms, consciousness is not a necessity whe
 
 This process highly effective, and makes the tiny creature spend more time where there is food spend more time where there is food than where there is not. But it never moves in a particular direction towards a particular target, and there's no need for it to be conscious of its environment. [14] When food was not present, they spent much of the time in various movements on the substrate – migration by gliding, rotation in place, changes in overall shape and folding (Smith, Pivovarova, Reese, 2015).
 
-#### directional motion
+#### Directional motion
 The first major step towards consciousness was probably taken when mobile selves started to move themselves directionally. Directional motion is a very powerful tool in the search for food because it allowed organisms to move closer towards energy and further away from predators. For example, the Dugesia tigrina, a specie of dugesiid, moves only when it is hungry, not when it is not. This means that when it moves, the worm self is not simply producing an automatic response to an external stimulus, but that its actions depend upon its inner, physiological state, whether it's hungry or sated. When it's just eaten, the worm is less energetic, but when starved for a while, it will move itself in the direction of food. [14]
 
 Dugesia tigrina uses chemoreceptors on its head to smell its environment, and guide it in the direction where the scent of food is strongest. After finding and eating a meal, it heads back to a safe region until it is hungry again. This was definitively show in the research *Regulation of the Feeding Behavior of the Planarian Dugesia*: "[it] began moving on the vessel bottom to approach the victim one or several times before capturing it. This is search for food or the reaction of approaching the food object. When planarians contacted with the mosquito grub, they threw out the pharynx and inserted it into the mosquito grub to perform the next reaction aimed at capturing the food object (the pharyngeal motor reaction). In some cases, planarians approached the mosquito grub but ignored it. In these cases, the reaction of the food capture did not follow the reaction of approaching the victim. However, as a rule, the hungry animals performed the both motor reactions. At the next stage, the food was the sucked in by the pharynx and digested" (Sheiman, Natalia, Kreshchenko, 2002).
 
 However, a chemoreceptor is not enough to give an organism a "sense" of where they are going, which is why the next step in the evolution of consciousness happened.
 
-#### vision
+#### Vision
 So, the next step on the ladder of consciousness is to add some perception at a distance, like vision. Vision adds context and depth to our world. With vision comes a sense of the space we and our food exists in. It adds a whole new dimension to awareness, and is a huge step towards more familiar consciousness. An optical apparatus, like an eye, enables us to visualize our goal and lock onto it. [14]
 
 The first conscious sense may have been vision. Then vision, coupled with additional sensory systems derived from ectodermal placodes and neural crest, transformed primitive reflexive systems into image forming brains that map and perceive the external world and the body's interior. In the timeline proposed by Lamb and co-workers (Lamb et al., 2007, 2008; Lamb, 2011, 2013), beginning about 600 mya the eye started to evolve from the simple frontal eye characteristic of cephalochordates into the vertebrate camera-style eye that was fully developed by 500 mya and was similar to that of the modern day lamprey (Feinberg, Mallatt, 2013). But even at this stage, a self is only able to pursue its food as long as it sees it. So, the next logical step needs to happen on the inside.
 
-#### memory
+#### Memory
 To visualize food in its absence, for example, a self needs to create some sort of inner representation of the world. With this, an animal can continue looking for food, even when it escapes its sensory range. Because of this inner representation of what is relevant in the world, it can remain focused on its food and its desire to get it.
 
 ##### object permanence
@@ -119,7 +119,7 @@ Jean Piaget, the Swiss psychologist who first studied object permanence in infan
 
 In this step to consciousness, the "self" now exists in a world it can get familiar with and the ability to remeber things has emerged. Thanks to memory, animals can be distracted from the pursuit for a few seconds, but quickly continue their path afterwards.
 
-#### time
+#### Time
 
 The capacity to remember a thing in its absence suggests at least a basic sense of time. Memory evolved to supply useful, timely information to the organism's decision-making systems. Therefore, decision rules, multiple memory systems, and the search engines that link them should have co-evolved to mesh in a co-adapted, functionally interlocking way (Klein, Cosmides, Tooby, Chance, 2002).
 
@@ -127,19 +127,21 @@ At the simplest level, studies of time perception in birds have shown that a num
 
 A sense of time is a big step on the ladder of consciousness. It may also enable a self to look forward from the present moment and anticipate the future.
 
-####  "understanding" others
+####  Understanding others
 Knowledge of and planning for the future is a complex skill that is considered by many to be uniquely human. We are not born with it; children develop a sense of the future at around the age of two and some planning ability by only the age of four to five (Raby, Alexis, Dickinson, Clayton, 2007). Western scrub jays are experts in delayed gratification. They show an even more elaborate sense of the future when they hide food in a cache to retrieve it at a later date. The scrub jays will even rehide their food if they become aware that a potential thief has been watching them [14].
 
 Food-caching corvids hide food, but such caches are susceptible to pilfering by other individuals. Consequently, the birds use several counter strategies to protect their caches from theft, e.g. hiding most of them out of sight. When observed by potential pilferers at the time of caching, experienced jays that have been thieves themselves, take further protective action. Once the potential pilferers have left, they move caches those birds have seen, re-hiding them in new places (Clayton, Dally, Emery, 2007). This means that they know that there are other hungry selves out there, who are aware and see the world from their own, different perspective.
 
 This ability to mind-read is crucial for complex levels of consciousness. By putting yourself in the position of others, you can outsmart a rich competitor, or empathize with a hungry friend [14].
 
-#### language
+#### Language
+Language takes the ability to read minds and represent what is absent to a whole new level. Words enable us to construct hypotheses about the world, make detailed plans, and to communicate them with others. Words enable us to think about ourselves and our place in the universe, and even about our own consciousness. [14]
 
+### Further discussions
 
-Language takes the ability to read minds and represent what is absent to a whole new level. Words enable us to construct hypotheses about the world, make detailed plans, and to communicate them with others. Words enable us to think about ourselves and our place in the universe, and even about our own consciousness.
+Finally, the topic of consciousness will always be debated upon and it can only be hypothesized how consciousness evolved. Further discussions can be conducted on the importance of society and communication as a factor in the evolution of consciousness and a more in-depth research has to be conducted.
 
-### More
+Th
 
 - discussions
 - open questions
