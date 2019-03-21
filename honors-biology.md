@@ -85,7 +85,9 @@ Some panpsychics (Chalmers, 2015) distinguish between constitutive and non-const
 Although this means that some panpsychics do not believe that a rock is intrinsically conscious, but it consists of *tiny units of consciousness*. However, some non-Constitutive panpsychics argue that rocks are conscious too. I, for one, can only speak to the consciousness of my own self, and since there are is no experimental evidence to either prove or disprove panpsychism, though vague as its definition may be, living things are used as a starting point.
 
 #### living things & energy
-A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. To do so, it needs energy. And this is where an awareness of the world comes in handy.
+A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. [18] Synonymously, an organism is any individual entity that exhibits the properties of life. Various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria. The criteria can at times be ambiguous and may or may not define viruses, viroids, or potential synthetic life as "living".
+
+To do so, it needs energy. And this is where an awareness of the world comes in handy.
 
 #### random motion
 The original function of consciousness was probably to direct a mobile self that was short of energy to a fresh supply of food. On the smaller scales of life, you don't need to be aware to find food. Trichopax adhaerens - one of the simplest of all animals moves around haphazardly. It slows down in the presence of food, and speeds up in its absence. This is highly effective, and makes the tiny creature spend more time where there is food spend more time where there is food than where there is not. But it never moves in a particular direction towards a particular target, and there's no need for it to be conscious of its environment.
