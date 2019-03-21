@@ -109,20 +109,25 @@ So, the next step on the ladder of consciousness is to add some perception at a 
 
 The first conscious sense may have been vision. Then vision, coupled with additional sensory systems derived from ectodermal placodes and neural crest, transformed primitive reflexive systems into image forming brains that map and perceive the external world and the body's interior. In the timeline proposed by Lamb and co-workers (Lamb et al., 2007, 2008; Lamb, 2011, 2013), beginning about 600 mya the eye started to evolve from the simple frontal eye characteristic of cephalochordates into the vertebrate camera-style eye that was fully developed by 500 mya and was similar to that of the modern day lamprey (Feinberg, Mallatt, 2013). But even at this stage, a self is only able to pursue its food as long as it sees it. So, the next logical step needs to happen on the inside.
 
-#### object permanence
+#### memory
 To visualize food in its absence, for example, a self needs to create some sort of inner representation of the world. With this, an animal can continue looking for food, even when it escapes its sensory range. Because of this inner representation of what is relevant in the world, it can remain focused on its food and its desire to get it.
 
+##### object permanence
 Object permanence is the understanding that objects continue to exist even when they cannot be perceived (seen, heard, touched, smelled or sensed in any way). This describes our awareness that things continue to exist even when we can't see them. This cognitive skill is enjoyed by some mammals and birds, and perhaps other animals too (we can't know for sure). [14]
 
 Jean Piaget, the Swiss psychologist who first studied object permanence in infants, argued that it is one of an infant's most important accomplishments, as, without this concept, objects would have no separate, permanent existence. In Piaget's theory of cognitive development, infants develop this understanding by the end of the "sensorimotor stage," which lasts from birth to about two years of age (Bremner, 1994). Baby chickens, interestingly, show this ability within a day or two of being born. [14]
 
 In this step to consciousness, the "self" now exists in a world it can get familiar with and the ability to remeber things has emerged. Thanks to memory, animals can be distracted from the pursuit for a few seconds, but quickly continue their path afterwards.
 
-#### memory
+#### time
 
-The capacity to remember a thing in its absence suggests at least a basic sense of time. (Klein, Cosmides, Tooby, Chance, 2002)
+The capacity to remember a thing in its absence suggests at least a basic sense of time. Memory evolved to supply useful, timely information to the organism's decision-making systems. Therefore, decision rules, multiple memory systems, and the search engines that link them should have co-evolved to mesh in a co-adapted, functionally interlocking way (Klein, Cosmides, Tooby, Chance, 2002).
 
-A sense of time is a big step on the ladder of consciousness. It may also enable a self to look forward from the present moment and anticipate the future. Adult chickens, for example, are able to resist a meal put in front of them if they expect to receive a bigger meal as a prize for holding back for a while. This sort of delayed gratification means there is an ability to visualize a reward that only exists in the future, which can be quite a challenge even for adult humans.
+At the simplest level, studies of time perception in birds have shown that a number of avian species, e.g., pigeons (Roberts, 1989) and black-capped chickadees (Brodbeck, 1998), are able to estimate short time intervals of up to 60 s. This has been demonstrated using operant conditioning techniques in which the pattern of peck responses indicates the bird’s ability to anticipate an upcoming food reward.
+
+Adult chickens, for example, are able to resist a meal put in front of them if they expect to receive a bigger meal as a prize for holding back for a while. This sort of delayed gratification means there is an ability to visualize a reward that only exists in the future, which can be quite a challenge even for adult humans [14](Marino, 2017).
+
+A sense of time is a big step on the ladder of consciousness. It may also enable a self to look forward from the present moment and anticipate the future.
 
 ####  "understanding" others
 Western scrub jays are experts in delayed gratification. They show an even more elaborate sense of the future when they hide food in a cache to retrieve it at a later date. The scrub jays will even rehide their food if they become aware that a potential thief has been watching them. This means that they know that there are other hungry selves out there, who are aware and see the world from their own, different perspective. Crafty scrub jays can sort of read the mind of their fellow birds. This ability to mind-read is crucial for complex levels of consciousness. By putting yourself in the position of others, you can outsmart a rich competitor, or empathise with a hungry friend.
