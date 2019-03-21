@@ -11,11 +11,19 @@ Evolutionary biology essay
 ## Introduction
 
 #### definition of consciousness
-In general, consciousness is what allows us to be aware both of our surroundings and of our own inner state (Robert van Gulick, 2014 [1]). The term "consciousness" used with a diversity of meanings, and applied both to whole organisms — creature consciousness — and to particular mental states and processes — state consciousness (Rosenthal 1986, Gennaro 1995, Carruthers 2000).
+In general, consciousness is what allows us to be aware both of our surroundings and of our own inner state (Van Gulick, 2014 [1]). The term "consciousness" used with a diversity of meanings, and applied both to whole organisms — creature consciousness — and to particular mental states and processes — state consciousness (Rosenthal 1986, Gennaro 1995, Carruthers 2000).
 
 #### creature consciousness
+An animal, person, or other cognitive system may be regarded as conscious in a number of different senses: sentience, wakefulness, self-consciousness, "what it is like", subject of conscious states, and transitive consciousness.
 
-An animal, person or other cognitive system may be regarded as conscious in a number of different senses: sentience, wakefulness, self-consciousness, "what it is like"
+##### sentience
+The cognitive system may be conscious in the generic sense of simply being a sentient creature, one capable of sensing and responding to its world (Armstrong 1981). In this regard, questions such as "Are fish conscious?" can be asked (Van Gulick, 2014).
+
+##### wakefulness
+Thinking of consciousness as only when an organism is awake and normally alert, it would not count as conscious when asleep or in any of the deeper levels of coma. Questions such as "Is one conscious when hypnotized or dreaming?" make this line very blurry.
+
+##### self-consciousness
+An even more demanding definition might be that conscious creatures are those that are not only aware but also aware that they are aware, thus treating creature consciousness as a form of self-consciousness (Carruthers, 2000).
 
 #### state consciousness
 
