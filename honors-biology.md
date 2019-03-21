@@ -3,7 +3,7 @@
 - **Name:** Anand Chowdhary
 - **Honors:** *Origins*, Evolutionary biology
 - **Student number:** s 1930702
-- **Number of words:** 1,000 words
+- **Number of words:** 4,472 words
 
 ## Introduction
 
