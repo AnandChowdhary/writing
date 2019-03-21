@@ -31,10 +31,30 @@ A being is conscious just if there is "something that it is like" to be that cre
 ##### subject of conscious states
 The definition can also go one step further and define a conscious organism in terms of conscious states, i.e., state consciousness (as discussed in the section below).
 
-##### transitive Consciousness
+##### transitive consciousness
 Lastly, addition to describing creatures as conscious in these various senses, there are also related senses in which creatures are described as being conscious of various things. The distinction is sometimes marked as that between transitive and intransitive notions of consciousness, with the former involving some object at which consciousness is directed (Rosenthal 1986).
 
 #### state consciousness
+
+Being conscious can be broken down to smaller "states" of consciousness. There are at least six major options.
+
+##### states one is aware of
+A conscious mental state is simply a mental state one is aware of being in (Rosenthal 1986, 1996). In this sense, conscious states involve a form of meta-mentality or meta-intentionality in so far as they require mental states that are themselves about mental states. For example, to want to watch a movie, one has to have such a desire, and also simultaneously be aware of that face that one had said desire.
+
+##### qualitative states
+One might count a state as conscious just if it has or involves qualitative or experiential properties of the sort often referred to as raw sensory feels This is called "qualia," and can be thought of as taste qualia, when taking a sip of coffee, or touch qualia, when feeling cotton. There is considerable disagreement about the nature of such qualia (Churchland 1985, Shoemaker 1990, Clark 1993, Chalmers 1996) and even about their existence.
+
+##### phenomenal states
+The aforementioned qualia are sometimes referred to as phenomenal properties and the associated sort of consciousness as phenomenal consciousness, but the latter term is perhaps more properly applied to the overall structure of experience and involves far more than sensory qualia. The phenomenal structure of consciousness also encompasses much of the spatial, temporal and conceptual organization of our experience of the world and of ourselves as agents in it. (See section 4.3) It is therefore probably best, at least initially, to distinguish the concept of phenomenal consciousness from that of qualitative consciousness, though they no doubt overlap.
+
+##### what-it-is-like states
+Consciousness in both those senses links up as well with Thomas Nagel's (1974) notion of a conscious creature, insofar as one might count a mental state as conscious in the “what it is like” sense just if there is something that it is like to be in that state. Nagel's criterion might be understood as aiming to provide a first-person or internal conception of what makes a state a phenomenal or qualitative state.
+
+##### access consciousness
+States might be conscious in a seemingly quite different access sense, which has more to do with intra-mental relations. In this respect, a state's being conscious is a matter of its availability to interact with other states and of the access that one has to its content. In this more functional sense, which corresponds to what Ned Block (1995) calls access consciousness, a visual state's being conscious is not so much a matter of whether or not it has a qualitative “what it's likeness”, but of whether or not it and the visual information that it carries is generally available for use and guidance by the organism. In so far as the information in that state is richly and flexibly available to its containing organism, then it counts as a conscious state in the relevant respect, whether or not it has any qualitative or phenomenal feel in the Nagel sense.
+
+##### narrative consciousness
+States might also be regarded as conscious in a narrative sense that appeals to the notion of the “stream of consciousness”, regarded as an ongoing more or less serial narrative of episodes from the perspective of an actual or merely virtual self. The idea would be to equate the person's conscious mental states with those that appear in the stream (Dennett 1991, 1992).
 
 Philosophers and scientists struggle to define consciousness. Different schools and ideas compete with one another, but no one has come close to figuring it out. In this fuzzy area, consciousness and intelligence are also related, although they are not the same.
 
