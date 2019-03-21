@@ -32,7 +32,7 @@ Lastly, addition to describing creatures as conscious in these various senses, t
 Being conscious can be broken down to smaller "states" of consciousness. There are at least six major options.
 
 ##### states one is aware of
-A conscious mental state is simply a mental state one is aware of being in (Rosenthal 1986, 1996). In this sense, conscious states involve a form of meta-mentality or meta-intentionality in so far as they require mental states that are themselves about mental states. For example, to want to watch a movie, one has to have such a desire, and also simultaneously be aware of that face that one had said desire.
+A conscious mental state is simply a mental state one is aware of being in (Rosenthal 1986, 1997). In this sense, conscious states involve a form of meta-mentality or meta-intentionality in so far as they require mental states that are themselves about mental states. For example, to want to watch a movie, one has to have such a desire, and also simultaneously be aware of that face that one had said desire.
 
 ##### qualitative states
 One might count a state as conscious just if it has or involves qualitative or experiential properties of the sort often referred to as raw sensory feels This is called "qualia," and can be thought of as taste qualia, when taking a sip of coffee, or touch qualia, when feeling cotton. There is considerable disagreement about the nature of such qualia (Churchland 1985, Shoemaker 1990, Clark 1993, Chalmers 1996) and even about their existence.
@@ -41,7 +41,7 @@ One might count a state as conscious just if it has or involves qualitative or e
 The aforementioned qualia are sometimes referred to as phenomenal properties and the associated sort of consciousness as phenomenal consciousness. The phenomenal structure of consciousness also encompasses much of the spatial, temporal, and conceptual organization of our experience of the world and of ourselves as agents in it.
 
 ##### access consciousness
-States might be conscious in a seemingly quite different access sense, which has more to do with intra-mental relations. In this respect, a state's being conscious is a matter of its availability to interact with other states and of the access that one has to its content. In this more functional sense, which corresponds to what Ned Block (1995) calls access consciousness, a visual state's being conscious is not so much a matter of whether or not it has a qualitative "what it's likeness", but of whether or not it and the visual information that it carries is generally available for use and guidance by the organism.
+States might be conscious in a seemingly quite different access sense, which has more to do with intra-mental relations. In this respect, a state's being conscious is a matter of its availability to interact with other states and of the access that one has to its content. In this more functional sense, which corresponds to what Block (1995) calls access consciousness, a visual state's being conscious is not so much a matter of whether or not it has a qualitative "what it's likeness", but of whether or not it and the visual information that it carries is generally available for use and guidance by the organism.
 
 ##### narrative consciousness
 States might also be regarded as conscious in a narrative sense that appeals to the notion of the "stream of consciousness", regarded as an ongoing more or less serial narrative of episodes from the perspective of an actual or merely virtual self. The idea would be to equate the person's conscious mental states with those that appear in the stream (Dennett 1991, 1992).
@@ -94,7 +94,15 @@ So, what is the origin of our consciousness? It probably began as the directed m
 1. Carruthers, P. 2000. Phenomenal Consciousness. Cambridge: Cambridge University Press.
 1. Nagel, T. 1974. “What is it like to be a bat?” Philosophical Review, 83: 435–456.
 1. Rosenthal, D. 1986. “Two concepts of consciousness.” Philosophical Studies, 49: 329–59.
-1. Kurzgesagt: [The Origin of Consciousness](https://www.youtube.com/watch?v=H6u0VBqNBQ8&t=342s)
+1. Rosenthal, D. M. 1997. “A theory of consciousness.” In N. Block, O. Flanagan, and G. Guzeldere, eds. The Nature of Consciousness. Cambridge, MA: MIT Press.
+1. Churchland, P. M. 1985. “Reduction, qualia, and direct introspection of brain states”. Journal of Philosophy, 82: 8–28.
+1. Shoemaker, S. 1990. “Qualities and qualia: what's in the mind,” Philosophy and Phenomenological Research, Supplement, 50: 109–131.
+1. Clark, A. 1993. Sensory Qualities. Oxford: Oxford University Press.
+1. Chalmers, D. 1996. The Conscious Mind. Oxford: Oxford University Press.
+1. Block, N. 1995. “On a confusion about the function of consciousness.” Behavioral and Brain Sciences, 18: 227–47.
+1. Dennett, D. C. 1991. Consciousness Explained. Boston: Little, Brown and Company.
+1. Dennett, D. C. 1992. “The self as the center of narrative gravity”. In F. Kessel, P. Cole, and D. L. Johnson, eds. Self and Consciousness: Multiple Perspectives. Hillsdale, NJ: Lawrence Erlbaum.
+1. Kurzgesagt, 2019: ["The Origin of Consciousness"](https://www.youtube.com/watch?v=H6u0VBqNBQ8&t=342s). YouTube.
 1. Our consciousness is likely to have evolved from less complex forms, as a product of evolution.  [Minimal Selfhood and the Origins of Consciousness, 2018](http://nbn-resolving.org/urn:nbn:de:bvb:20-opus-157470)
 1. Some panpsychists claim that a lump of rock may have an inner life. [Panpsychism, 2017 [2001]](https://plato.stanford.edu/entries/panpsychism/#DefiPanp)
 1. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. A Universal Definition of Life: Autonomy and Open-Ended Evolution, 2004 [2002][](https://link.springer.com/article/10.1023/B:ORIG.0000016440.53346.dc)
