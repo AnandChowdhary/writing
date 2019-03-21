@@ -4,7 +4,7 @@ Evolutionary biology essay: Honors 2018-2019
 
 # Evolution of consciousness
 
-Anand Chowdhary, Honors: *Origins*, s1930702
+Anand Chowdhary, Honors: *Origins*, Student numbre: s1930702, Number of words: 100 words
 
 ## Introduction
 
@@ -84,10 +84,14 @@ Some panpsychics (Chalmers, 2015) distinguish between constitutive and non-const
 
 Although this means that some panpsychics do not believe that a rock is intrinsically conscious, but it consists of *tiny units of consciousness*. However, some non-Constitutive panpsychics argue that rocks are conscious too. I, for one, can only speak to the consciousness of my own self, and since there are is no experimental evidence to either prove or disprove panpsychism, though vague as its definition may be, living things are used as a starting point.
 
-#### living things & energy
-A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. [18] Synonymously, an organism is any individual entity that exhibits the properties of life. Various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria. The criteria can at times be ambiguous and may or may not define viruses, viroids, or potential synthetic life as "living".
+#### Living things & energy
+A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. [18] Synonymously, an organism is any individual entity that exhibits the properties of life. Various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria. However, this criteria for life can at times be ambiguous and may or may not define viruses, viroids, or potential synthetic life as living. If we look at organisms as a starting place for life, the following character have to bit met:
 
-To do so, it needs energy. And this is where an awareness of the world comes in handy.
+##### metabolism
+
+Metabolism, the transformation of energy by converting chemicals and energy into cellular components (anabolism) and decomposing organic matter (catabolism), is a fundamental requirement of being classified as a living thing. For the purposes of this research, organisms require energy to maintain internal organization (homeostasis) and to produce the other phenomena associated with life.
+
+For the process of metabolism to take place, energy from outside of the system is required. This can be found in various ways, as discussed below.
 
 #### random motion
 The original function of consciousness was probably to direct a mobile self that was short of energy to a fresh supply of food. On the smaller scales of life, you don't need to be aware to find food. Trichopax adhaerens - one of the simplest of all animals moves around haphazardly. It slows down in the presence of food, and speeds up in its absence. This is highly effective, and makes the tiny creature spend more time where there is food spend more time where there is food than where there is not. But it never moves in a particular direction towards a particular target, and there's no need for it to be conscious of its environment.
