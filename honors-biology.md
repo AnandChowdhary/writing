@@ -73,8 +73,12 @@ The answer to the research question "How did consciousness evolve in animals?" c
 
 ## Literature research
 
-#### what is conscious?
-What was the first step on this path from the non-conscious to the basic consciousness that ultimately led to the convoluted consciousness we humans enjoy today? Take a stone. The consensus is that a stone is not conscious. Though, not everyone agrees even on this. Some panpsychists claim that a lump of rock may have an inner life. However, there are no real grounds for any such assumption since stones never show behaviour. Their inner life can neither be proven nor disproven.
+#### Am I conscious?
+The early questions in this literature research are very vague yet fundamental. First, it is assumed that humans are consciousness (I am writing this paper, ain't I?) and some other things are not. For example, the general consensus says that a rock is not conscious. However, even making this assumption is not very easy.
+
+##### panpsychism
+
+Since there are is no experimental evidence to either prove or disprove panpsychism, though vagues a
 
 #### living things & energy
 A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. To do so, it needs energy. And this is where an awareness of the world comes in handy.
