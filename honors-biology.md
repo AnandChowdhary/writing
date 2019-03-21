@@ -17,13 +17,22 @@ In general, consciousness is what allows us to be aware both of our surroundings
 An animal, person, or other cognitive system may be regarded as conscious in a number of different senses: sentience, wakefulness, self-consciousness, "what it is like", subject of conscious states, and transitive consciousness.
 
 ##### sentience
-The cognitive system may be conscious in the generic sense of simply being a sentient creature, one capable of sensing and responding to its world (Armstrong 1981). In this regard, questions such as "Are fish conscious?" can be asked (Van Gulick, 2014).
+The cognitive system may be conscious in the generic sense of simply being a sentient creature, one capable of sensing and responding to its world (Armstrong 1981). In this regard, questions such as "Are fish conscious?" can be asked.
 
 ##### wakefulness
-Thinking of consciousness as only when an organism is awake and normally alert, it would not count as conscious when asleep or in any of the deeper levels of coma. Questions such as "Is one conscious when hypnotized or dreaming?" make this line very blurry.
+Thinking of consciousness as only when an organism is awake and normally alert, it would not count as conscious when asleep or in any of the deeper levels of coma. Questions such as "Is one conscious when hypnotized or dreaming?" make this line very blurry (Van Gulick, 2014).
 
 ##### self-consciousness
 An even more demanding definition might be that conscious creatures are those that are not only aware but also aware that they are aware, thus treating creature consciousness as a form of self-consciousness (Carruthers, 2000).
+
+##### "what it is like"
+A being is conscious just if there is "something that it is like" to be that creature, i.e., some subjective way the world seems or appears from the creature's mental or experiential point of view (Nagel, 1974). In Nagel's example, he suggests that bats are conscious, since there is a subjective way to see "what it is like" to be a bat and experience the world through echolocation.
+
+##### subject of conscious states
+The definition can also go one step further and define a conscious organism in terms of conscious states, i.e., state consciousness (as discussed in the section below).
+
+##### transitive Consciousness
+Lastly, addition to describing creatures as conscious in these various senses, there are also related senses in which creatures are described as being conscious of various things. The distinction is sometimes marked as that between transitive and intransitive notions of consciousness, with the former involving some object at which consciousness is directed (Rosenthal 1986).
 
 #### state consciousness
 
