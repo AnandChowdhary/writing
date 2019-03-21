@@ -1,7 +1,3 @@
-Evolutionary biology essay: Honors 2018-2019
-
-> In all cases, a paper, essay or presentation should have a "head, tail, and main body": an introductory part (covering items like background, motivation, some historical account, the problem statement or research question, etc.), a number of sections, depending to a large extend on the nature of the topic, describing the problem/question(s) in more detail, the approach taken to solve the problem or answer the question(s), the scientific evidence or experiments, finds, interpretations, etc., in some cases the difference with respect to other proposed solutions, explanations, interpretations, etc., sometimes more discussions, open questions, and recommendations for further research, and a concluding part, where a kind of summary is given based on the content or evidence in the earlier sections.
-
 # Evolution of consciousness
 
 - **Name:** Anand Chowdhary
@@ -104,7 +100,9 @@ This process highly effective, and makes the tiny creature spend more time where
 #### directional motion
 The first major step towards consciousness was probably taken when mobile selves started to move themselves directionally. Directional motion is a very powerful tool in the search for food because it allowed organisms to move closer towards energy and further away from predators. For example, the Dugesia tigrina, a specie of dugesiid, moves only when it is hungry, not when it is not. This means that when it moves, the worm self is not simply producing an automatic response to an external stimulus, but that its actions depend upon its inner, physiological state, whether it's hungry or sated. When it's just eaten, the worm is less energetic, but when starved for a while, it will move itself in the direction of food. [14]
 
-It uses chemoreceptors on its head to smell its environment, and guide it in the direction where the scent of food is strongest. After finding and eating a meal, our worm buddy heads back to a dark sheltered spot to digest it in safety, until it's hungry again. But animals that blindly follow their sense of smell don't have a concrete objective in view. They still lack any sense of where they are heading.
+Dugesia tigrina uses chemoreceptors on its head to smell its environment, and guide it in the direction where the scent of food is strongest. After finding and eating a meal, it heads back to a safe region until it is hungry again. This was definitively show in the research *Regulation of the Feeding Behavior of the Planarian Dugesia*: "[it] began moving on the vessel bottom to approach the victim one or several times before capturing it. This is search for food or the reaction of approaching the food object. When planarians contacted with the mosquito grub, they threw out the pharynx and inserted it into the mosquito grub to perform the next reaction aimed at capturing the food object (the pharyngeal motor reaction). In some cases, planarians approached the mosquito grub but ignored it. In these cases, the reaction of the food capture did not follow the reaction of approaching the victim. However, as a rule, the hungry animals performed the both motor reactions. At the next stage, the food was the sucked in by the pharynx and digested" (Sheiman, Natalia, Kreshchenko, 2002).
+
+But animals that blindly follow their sense of smell don't have a concrete objective in view. They still lack any sense of where they are heading.
 
 ## Context
 
