@@ -78,9 +78,11 @@ The early questions in this literature research are very vague yet fundamental. 
 
 ##### panpsychism
 
-The word "panpsychism" literally means that everything has a mind. However, in contemporary debates it is generally understood as the view that mentality is fundamental and ubiquitous in the natural world.
+The word "panpsychism" literally means that everything has a mind. However, in contemporary debates it is generally understood as the view that mentality is fundamental and ubiquitous in the natural world. (Goff, Seager, Allen-Hermanson, 2010). Panexperientialism is one of the two dominants forms of panpsychism and describes the view that conscious experience is fundamental and ubiquitous.
 
-(Goff, Seager, Allen-Hermanson, 2010).
+Some panpsychics (Chalmers, 2015) distinguish between constitutive and non-constitutive forms of panpsychism: Constitutive panpsychism: Forms of panpsychism according to which facts about human and animal consciousness are not fundamental, but are grounded in/realized by/constituted of facts about more fundamental kinds of consciousness, e.g., facts about micro-level consciousness. Non-Constitutive panpsychism: Forms of panpsychism according to which facts about human and animal consciousness are among the fundamental facts. Constitutive Micropsychism is the most common form of panpsychism (Goff et al., 2010), the view that all facts are grounded in/realized by/constituted of consciousness-involving facts at the micro-level.
+
+Although this means that some panpsychics do not believe that a rock is intrinsically conscious, but it consists of *tiny units of consciousness*. However, some non-Constitutive panpsychics argue that rocks are conscious too. I, for one, can only speak to the 
 
 Since there are is no experimental evidence to either prove or disprove panpsychism, though vague as its definition may be, living things are used as a starting point.
 
