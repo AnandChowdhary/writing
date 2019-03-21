@@ -50,9 +50,10 @@ States might also be regarded as conscious in a narrative sense that appeals to 
 As noted from the previous definitions, philosophers and biologists have struggled to find a single definition of consciousness, and perhaps no such definition exists. Different schools of thought compete with each another, and some even consider the relationship between intelligence and consciousness. There is a symbiotic relationship between them since consciousness may arise as a result of intelligence, but a general intelligence may not be enough for consciousness (e.g., general-purpose artificial intelligences do not necessarily have to be conscious).
 
 #### evolution by natural selection
+Evolution is the process of adaptation through mutation which allows more desirable characteristics to be passed to the next generation. Over time, organisms evolve more characteristics that are beneficial to their survival. For living organisms to adapt and change to environmental pressures, genetic variation must be present. With genetic variation, individuals have differences in form and function that allow some to survive certain conditions better than others. These organisms pass their favorable traits to their offspring. Eventually, environments change, and what was once a desirable, advantageous trait may become an undesirable trait and organisms may further evolve (OpenStax, 2016).
 
-
-In organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian outcomes, it is therefore a "gradient" or steam of consciousness and therefore a hard line between conscious and lack thereof cannot be drawn.
+#### problem statement
+The answer to the research question "How did consciousness evolve in animals?" can therefore be answered using In organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian outcomes, it is therefore a "gradient" or steam of consciousness and therefore a hard line between conscious and lack thereof cannot be drawn. This literature research paper aims to establish the link between evolution by natural selection and the origin of consciousness
 
 ## Evolution
 
@@ -106,6 +107,7 @@ So, what is the origin of our consciousness? It probably began as the directed m
 1. Dennett, D. C. 1992. “The self as the center of narrative gravity”. In F. Kessel, P. Cole, and D. L. Johnson, eds. Self and Consciousness: Multiple Perspectives. Hillsdale, NJ: Lawrence Erlbaum.
 1. Kurzgesagt, 2019: ["The Origin of Consciousness"](https://www.youtube.com/watch?v=H6u0VBqNBQ8&t=342s). YouTube.
 1. Our consciousness is likely to have evolved from less complex forms, as a product of evolution.  [Minimal Selfhood and the Origins of Consciousness, 2018](http://nbn-resolving.org/urn:nbn:de:bvb:20-opus-157470)
+1. OpenStax, Biology. OpenStax CNX. Mar 23, 2016 http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@10.8
 1. Some panpsychists claim that a lump of rock may have an inner life. [Panpsychism, 2017 [2001]](https://plato.stanford.edu/entries/panpsychism/#DefiPanp)
 1. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. A Universal Definition of Life: Autonomy and Open-Ended Evolution, 2004 [2002][](https://link.springer.com/article/10.1023/B:ORIG.0000016440.53346.dc)
 1. The original function of consciousness was probably to direct a mobile self that was short of energy to a  [Evolution of consciousness: Phylogeny, ontogeny, and emergence from general anesthesia, 2018](https://www.pnas.org/content/110/Supplement_2/10357#ref-52)
