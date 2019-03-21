@@ -128,11 +128,15 @@ At the simplest level, studies of time perception in birds have shown that a num
 A sense of time is a big step on the ladder of consciousness. It may also enable a self to look forward from the present moment and anticipate the future.
 
 ####  "understanding" others
-Knowledge of and planning for the future is a complex skill that is considered by many to be uniquely human. We are not born with it; children develop a sense of the future at around the age of two and some planning ability by only the age of four to five (Raby, Alexis, Dickinson, Clayton, 2007). Western scrub jays are experts in delayed gratification. They show an even more elaborate sense of the future when they hide food in a cache to retrieve it at a later date. The scrub jays will even rehide their food if they become aware that a potential thief has been watching them. This means that they know that there are other hungry selves out there, who are aware and see the world from their own, different perspective. Crafty scrub jays can sort of read the mind of their fellow birds [14].
+Knowledge of and planning for the future is a complex skill that is considered by many to be uniquely human. We are not born with it; children develop a sense of the future at around the age of two and some planning ability by only the age of four to five (Raby, Alexis, Dickinson, Clayton, 2007). Western scrub jays are experts in delayed gratification. They show an even more elaborate sense of the future when they hide food in a cache to retrieve it at a later date. The scrub jays will even rehide their food if they become aware that a potential thief has been watching them [14].
 
-This ability to mind-read is crucial for complex levels of consciousness. By putting yourself in the position of others, you can outsmart a rich competitor, or empathise with a hungry friend.
+Food-caching corvids hide food, but such caches are susceptible to pilfering by other individuals. Consequently, the birds use several counter strategies to protect their caches from theft, e.g. hiding most of them out of sight. When observed by potential pilferers at the time of caching, experienced jays that have been thieves themselves, take further protective action. Once the potential pilferers have left, they move caches those birds have seen, re-hiding them in new places (Clayton, Dally, Emery, 2007). This means that they know that there are other hungry selves out there, who are aware and see the world from their own, different perspective.
+
+This ability to mind-read is crucial for complex levels of consciousness. By putting yourself in the position of others, you can outsmart a rich competitor, or empathize with a hungry friend [14].
 
 #### language
+
+
 Language takes the ability to read minds and represent what is absent to a whole new level. Words enable us to construct hypotheses about the world, make detailed plans, and to communicate them with others. Words enable us to think about ourselves and our place in the universe, and even about our own consciousness.
 
 ### More
