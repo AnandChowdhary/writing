@@ -4,7 +4,10 @@ Evolutionary biology essay: Honors 2018-2019
 
 # Evolution of consciousness
 
-Anand Chowdhary, Honors: *Origins*, Student numbre: s1930702, Number of words: 100 words
+- **Name:** Anand Chowdhary
+- **Honors:** *Origins*, Evolutionary biology
+- **Student number:** s 1930702
+- **Number of words:** 1,000 words
 
 ## Introduction
 
@@ -85,11 +88,11 @@ Some panpsychics (Chalmers, 2015) distinguish between constitutive and non-const
 Although this means that some panpsychics do not believe that a rock is intrinsically conscious, but it consists of *tiny units of consciousness*. However, some non-Constitutive panpsychics argue that rocks are conscious too. I, for one, can only speak to the consciousness of my own self, and since there are is no experimental evidence to either prove or disprove panpsychism, though vague as its definition may be, living things are used as a starting point.
 
 #### Living things & energy
-A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. [18] Synonymously, an organism is any individual entity that exhibits the properties of life. Various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria. However, this criteria for life can at times be ambiguous and may or may not define viruses, viroids, or potential synthetic life as living. If we look at organisms as a starting place for life, the following character have to bit met:
+A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. [18] Synonymously, an organism is any individual entity that exhibits the properties of life. Various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria. However, this criteria for life can at times be ambiguous and may or may not define viruses, viroids, or potential synthetic life as living.
 
 ##### metabolism
 
-Metabolism, the transformation of energy by converting chemicals and energy into cellular components (anabolism) and decomposing organic matter (catabolism), is a fundamental requirement of being classified as a living thing. For the purposes of this research, organisms require energy to maintain internal organization (homeostasis) and to produce the other phenomena associated with life.
+Metabolism, the transformation of energy by converting chemicals and energy into cellular components (anabolism) and decomposing organic matter (catabolism), is a fundamental requirement of being classified as a living thing. For the purposes of this research, organisms require energy to maintain internal organization (homeostasis) and to produce the other phenomena associated with life (Friedrich, 1998).
 
 For the process of metabolism to take place, energy from outside of the system is required. This can be found in various ways, as discussed below.
 
@@ -145,7 +148,8 @@ So, what is the origin of our consciousness? It probably began as the directed m
 1. Our consciousness is likely to have evolved from less complex forms, as a product of evolution.  [Minimal Selfhood and the Origins of Consciousness, 2018](http://nbn-resolving.org/urn:nbn:de:bvb:20-opus-157470)
 1. OpenStax, Biology. OpenStax CNX. Mar 23, 2016 http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@10.8
 1. Philip Goff, William Seager, Sean Allen-Hermanson. Panpsychism. [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/panpsychism/#DefiPanp).
-1. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. A Universal Definition of Life: Autonomy and Open-Ended Evolution, 2004 [2002][](https://link.springer.com/article/10.1023/B:ORIG.0000016440.53346.dc)
+1. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. A Universal Definition of Life: Autonomy and Open-Ended Evolution, 2004 [2002](https://link.springer.com/article/10.1023/B:ORIG.0000016440.53346.dc)
+1. Friedrich C (1998). Physiology and genetics of sulfur-oxidizing bacteria. Adv Microb Physiol. Advances in Microbial Physiology. 39. pp. 235–89
 1. The original function of consciousness was probably to direct a mobile self that was short of energy to a  [Evolution of consciousness: Phylogeny, ontogeny, and emergence from general anesthesia, 2018](https://www.pnas.org/content/110/Supplement_2/10357#ref-52)
 1. Trichoplax adhaerens moves around haphazardly. [Coordinated Feeding Behavior in Trichoplax, an Animal without Synapses, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136098)
 1. When starved for a while, it will move itself in the direction of tasty things. [Regulation of the Feeding Behavior of the Planarian Dugesia (Girardia) tigrina, 2002 [2001]](https://www.researchgate.net/publication/226650185_Regulation_of_the_Feeding_Behavior_of_the_Planarian_Dugesia_Girardia_tigrina)
@@ -155,7 +159,7 @@ So, what is the origin of our consciousness? It probably began as the directed m
 1. A related phenomenon is called ‘object permanence’. [APA Dictionary of Psychology: object permanence, 2018](https://dictionary.apa.org/object-permanence)
 1. Humans develop this ability at eight months; baby chickens within a day or two of being born. [Thinking chickens: a review of cognition, emotion, and behavior in the domestic chicken, 2017](https://link.springer.com/article/10.1007%2Fs10071-016-1064-4)
 1. A sense of time is a big step on the ladder of consciousness. [Temporal Consciousness, 2010](https://plato.stanford.edu/entries/consciousness-temporal/#TimCon)
-1. Adult chickens can resist a meal, if they expect a bigger meal as prize for holding back for a while. Can domestic fowl, Gallus gallus domesticus, show self-control?, 2005 [2004][](https://www.sciencedirect.com/science/article/pii/S0003347205000412)
+1. Adult chickens can resist a meal, if they expect a bigger meal as prize for holding back for a while. Can domestic fowl, Gallus gallus domesticus, show self-control?, 2005 [2004](https://www.sciencedirect.com/science/article/pii/S0003347205000412)
 1. Western scrub jays are experts in delayed gratification. [Planning for the Future by Western Scrub-Jays, 2007](https://www.researchgate.net/publication/6490918_Planning_for_the_Future_by_Western_Scrub-Jays)
 1. The scrub jays will even re-hide their food if they become aware that a potential thief has been watching  [Social cognition by food-caching corvids. The western scrub-jay as a natural psychologist, 2007](https://www.ncbi.nlm.nih.gov/pubmed/17309867)
 1. Crafty scrub jays can sort of ‘read the mind’ of their fellow birds. [Social cognition by food-caching corvids. The western scrub-jay as a natural psychologist, 2007](https://royalsocietypublishing.org/doi/10.1098/rstb.2006.1992)
