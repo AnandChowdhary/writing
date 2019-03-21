@@ -139,17 +139,23 @@ Language takes the ability to read minds and represent what is absent to a whole
 
 ### Further discussions
 
-Finally, the topic of consciousness will always be debated upon and it can only be hypothesized how consciousness evolved. Further discussions can be conducted on the importance of society and communication as a factor in the evolution of consciousness and a more in-depth research has to be conducted.
+Finally, the topic of consciousness will always be debated upon and it can only be hypothesized how consciousness evolved. Further discussions can be conducted on the importance of society and communication as a factor in the evolution of consciousness and a more in-depth research has to be conducted. These open questions remain unanswered:
 
-Th
-
-- discussions
-- open questions
-- recommendations for further research
+- Since consciousness is a stream or gradient, can a line really be drawn on the Darwinian tree? If so, where would this line be?
+- How are consciousness and intelligence related?
+- In split brain patients, are there "two" consciousness-es inside one brain, since the two sides of the brain sometimes disagree on answers? What does that tell us about the fundamental nature of consciousness?
 
 ## Conclusion
 
-So, what is the origin of our consciousness? It probably began as the directed motion of a hungry self towards a source of food. With the survival benefits, this gave it over competitors that moved at random or not at all. It probably all started with the urge for more food. So, even with the sophisticated consciousness that allows us to dream about space, build skyscrapers, or obsess about novels, it's not surprising that we can't stop thinking about where we'll get our next meal. Collectively, we've put so much thought and ingenuity into getting food, that we can now just get our food to come to us with little conscious effort.
+Consciousness probably began as the directed motion of a hungry self towards a source of food. With the survival benefits, this gave it over competitors that moved at random or not at all. It probably all started with the urge for more energy for metabolism.
+
+### Footnote
+
+Today, even millions of years into the evolution of consciousness, humans are still obsessed with finding the next, better meal. Using incredible technology like crowdsourced travel and the sharing economy, we've made it easier than ever before to find our next meal. Billion-dollar companies like Thuisbezorgd (which originated in Enschede!) are built around fool delivery.
+
+After all, consciousness was evolved because we were hungry.
+
+Stay hungry, stay foolish.
 
 ## References
 
