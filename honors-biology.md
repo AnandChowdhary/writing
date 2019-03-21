@@ -78,7 +78,11 @@ The early questions in this literature research are very vague yet fundamental. 
 
 ##### panpsychism
 
-Since there are is no experimental evidence to either prove or disprove panpsychism, though vagues a
+The word "panpsychism" literally means that everything has a mind. However, in contemporary debates it is generally understood as the view that mentality is fundamental and ubiquitous in the natural world.
+
+(Goff, Seager, Allen-Hermanson, 2010).
+
+Since there are is no experimental evidence to either prove or disprove panpsychism, though vague as its definition may be, living things are used as a starting point.
 
 #### living things & energy
 A more common starting point is with the living things. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. To do so, it needs energy. And this is where an awareness of the world comes in handy.
@@ -134,7 +138,7 @@ So, what is the origin of our consciousness? It probably began as the directed m
 1. Kurzgesagt, 2019: ["The Origin of Consciousness"](https://www.youtube.com/watch?v=H6u0VBqNBQ8&t=342s). YouTube.
 1. Our consciousness is likely to have evolved from less complex forms, as a product of evolution.  [Minimal Selfhood and the Origins of Consciousness, 2018](http://nbn-resolving.org/urn:nbn:de:bvb:20-opus-157470)
 1. OpenStax, Biology. OpenStax CNX. Mar 23, 2016 http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@10.8
-1. Some panpsychists claim that a lump of rock may have an inner life. [Panpsychism, 2017 [2001]](https://plato.stanford.edu/entries/panpsychism/#DefiPanp)
+1. Philip Goff, William Seager, Sean Allen-Hermanson. Panpsychism. [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/panpsychism/#DefiPanp).
 1. A living thing, or a self, is a part of the universe that sustains itself and makes more of its kind. A Universal Definition of Life: Autonomy and Open-Ended Evolution, 2004 [2002][](https://link.springer.com/article/10.1023/B:ORIG.0000016440.53346.dc)
 1. The original function of consciousness was probably to direct a mobile self that was short of energy to a  [Evolution of consciousness: Phylogeny, ontogeny, and emergence from general anesthesia, 2018](https://www.pnas.org/content/110/Supplement_2/10357#ref-52)
 1. Trichoplax adhaerens moves around haphazardly. [Coordinated Feeding Behavior in Trichoplax, an Animal without Synapses, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136098)
