@@ -112,6 +112,8 @@ The first conscious sense may have been vision. Then vision, coupled with additi
 #### object permanence
 To visualize food in its absence, for example, a self needs to create some sort of inner representation of the world. With this, an animal can continue looking for food, even when it escapes its sensory range. Because of this inner representation of what is relevant in the world, it can remain focused on its food and its desire to get it. [14]
 
+##
+
 Our self now exists in a world it can get familiar with. The ability to remember things has emerged. Thanks to memory, animals can be distracted from the pursuit for a few seconds, but quickly continue their path afterwards. A related phenomenon is called 'object permanence'. This describes our awareness that things continue to exist even when we can't see them. This cognitive skill is enjoyed by some mammals and birds, and perhaps other animals too. Human babies tend to develop this ability around the time they turn eight months, while baby chickens show this ability within a day or two of being born.
 
 #### memory
