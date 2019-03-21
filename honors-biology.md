@@ -50,6 +50,8 @@ States might also be regarded as conscious in a narrative sense that appeals to 
 As noted from the previous definitions, philosophers and biologists have struggled to find a single definition of consciousness, and perhaps no such definition exists. Different schools of thought compete with each another, and some even consider the relationship between intelligence and consciousness. There is a symbiotic relationship between them since consciousness may arise as a result of intelligence, but a general intelligence may not be enough for consciousness (e.g., general-purpose artificial intelligences do not necessarily have to be conscious).
 
 #### evolution by natural selection
+
+
 In organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian outcomes, it is therefore a "gradient" or steam of consciousness and therefore a hard line between conscious and lack thereof cannot be drawn.
 
 ## Evolution
