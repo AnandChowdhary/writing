@@ -28,9 +28,6 @@ An even more demanding definition might be that conscious creatures are those th
 ##### "what it is like"
 A being is conscious just if there is "something that it is like" to be that creature, i.e., some subjective way the world seems or appears from the creature's mental or experiential point of view (Nagel, 1974). In Nagel's example, he suggests that bats are conscious, since there is a subjective way to see "what it is like" to be a bat and experience the world through echolocation.
 
-##### subject of conscious states
-The definition can also go one step further and define a conscious organism in terms of conscious states, i.e., state consciousness (as discussed in the section below).
-
 ##### transitive consciousness
 Lastly, addition to describing creatures as conscious in these various senses, there are also related senses in which creatures are described as being conscious of various things. The distinction is sometimes marked as that between transitive and intransitive notions of consciousness, with the former involving some object at which consciousness is directed (Rosenthal 1986).
 
@@ -45,20 +42,19 @@ A conscious mental state is simply a mental state one is aware of being in (Rose
 One might count a state as conscious just if it has or involves qualitative or experiential properties of the sort often referred to as raw sensory feels This is called "qualia," and can be thought of as taste qualia, when taking a sip of coffee, or touch qualia, when feeling cotton. There is considerable disagreement about the nature of such qualia (Churchland 1985, Shoemaker 1990, Clark 1993, Chalmers 1996) and even about their existence.
 
 ##### phenomenal states
-The aforementioned qualia are sometimes referred to as phenomenal properties and the associated sort of consciousness as phenomenal consciousness, but the latter term is perhaps more properly applied to the overall structure of experience and involves far more than sensory qualia. The phenomenal structure of consciousness also encompasses much of the spatial, temporal and conceptual organization of our experience of the world and of ourselves as agents in it. (See section 4.3) It is therefore probably best, at least initially, to distinguish the concept of phenomenal consciousness from that of qualitative consciousness, though they no doubt overlap.
-
-##### what-it-is-like states
-Consciousness in both those senses links up as well with Thomas Nagel's (1974) notion of a conscious creature, insofar as one might count a mental state as conscious in the “what it is like” sense just if there is something that it is like to be in that state. Nagel's criterion might be understood as aiming to provide a first-person or internal conception of what makes a state a phenomenal or qualitative state.
+The aforementioned qualia are sometimes referred to as phenomenal properties and the associated sort of consciousness as phenomenal consciousness. The phenomenal structure of consciousness also encompasses much of the spatial, temporal, and conceptual organization of our experience of the world and of ourselves as agents in it.
 
 ##### access consciousness
-States might be conscious in a seemingly quite different access sense, which has more to do with intra-mental relations. In this respect, a state's being conscious is a matter of its availability to interact with other states and of the access that one has to its content. In this more functional sense, which corresponds to what Ned Block (1995) calls access consciousness, a visual state's being conscious is not so much a matter of whether or not it has a qualitative “what it's likeness”, but of whether or not it and the visual information that it carries is generally available for use and guidance by the organism. In so far as the information in that state is richly and flexibly available to its containing organism, then it counts as a conscious state in the relevant respect, whether or not it has any qualitative or phenomenal feel in the Nagel sense.
+States might be conscious in a seemingly quite different access sense, which has more to do with intra-mental relations. In this respect, a state's being conscious is a matter of its availability to interact with other states and of the access that one has to its content. In this more functional sense, which corresponds to what Ned Block (1995) calls access consciousness, a visual state's being conscious is not so much a matter of whether or not it has a qualitative "what it's likeness", but of whether or not it and the visual information that it carries is generally available for use and guidance by the organism.
 
 ##### narrative consciousness
-States might also be regarded as conscious in a narrative sense that appeals to the notion of the “stream of consciousness”, regarded as an ongoing more or less serial narrative of episodes from the perspective of an actual or merely virtual self. The idea would be to equate the person's conscious mental states with those that appear in the stream (Dennett 1991, 1992).
+States might also be regarded as conscious in a narrative sense that appeals to the notion of the "stream of consciousness", regarded as an ongoing more or less serial narrative of episodes from the perspective of an actual or merely virtual self. The idea would be to equate the person's conscious mental states with those that appear in the stream (Dennett 1991, 1992).
 
-Philosophers and scientists struggle to define consciousness. Different schools and ideas compete with one another, but no one has come close to figuring it out. In this fuzzy area, consciousness and intelligence are also related, although they are not the same.
+#### summary
+As noted from the previous definitions, philosophers and biologists have struggled to find a single definition of consciousness, and perhaps no such definition exists. Different schools of thought compete with each another, and some even consider the relationship between intelligence and consciousness. There is a symbiotic relationship between them since consciousness may arise as a result of intelligence, but a general intelligence may not be enough for consciousness (e.g., general-purpose artificial intelligences do not necessarily have to be conscious).
 
-Like much of what makes us human, our consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. It has probably emerged from an immense several-100-million years sequence of countless micro steps, that together make up a sort of gradient of consciousness.
+#### natural selection
+In organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian results, 
 
 ## Evolution
 
