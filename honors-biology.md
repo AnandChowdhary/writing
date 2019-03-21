@@ -64,12 +64,14 @@ Evolution is the process of adaptation through mutation which allows more desira
 
 As described above, evolution by natural selection showcases a mechanism for how species change over time. That species change had been suggested and debated well before Darwin began to explore this idea. The view that species were static and unchanging was grounded in the writings of Plato, yet there were also ancient Greeks who expressed evolutionary ideas. In the 18th century, ideas about the evolution of animals were reintroduced by the naturalist Georges-Louis Leclerc, Comte de Buffon, who observed that various geographic regions have different plant and animal populations, even when the environments are similar.
 
-Furthermore, it was also already accepted that there were extinct species in the 18th century.
+Furthermore, it was also already accepted that there were extinct species in the 18th century. In the mid-19th century, the actual mechanism for evolution was independently conceived of and described by two naturalists: Charles Darwin and Alfred Russel Wallace. Importantly, each naturalist spent time exploring the natural world on expeditions to the tropics. From 1831 to 1836, Darwin traveled around the world on *HMS Beagle*, including stops in South America, Australia, and the southern tip of Africa. Wallace traveled to Brazil to collect insects in the Amazon rainforest from 1848 to 1852 and to the Malay Archipelago from 1854 to 1862.
+
+Wallace and Darwin both observed similar patterns in other organisms and they independently developed the same explanation for how and why such changes could take place. Darwin called this mechanism natural selection. Natural selection, also known as "survival of the fittest," is the more prolific reproduction of individuals with favorable traits that survive environmental change because of those traits; this leads to evolutionary change. (OpenStax, 2016).
 
 ### Problem statement
 The answer to the research question "How did consciousness evolve in animals?" can therefore be answered: in organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian outcomes, it is therefore a "gradient" or steam of consciousness and therefore a hard line between conscious and lack thereof cannot be drawn. This essay aims to establish the link between evolution by natural selection and the origin of consciousness and to explore the various stages that lead to the current state of human consciousness.
 
-## Evolution
+## Literature research
 
 #### what is conscious?
 What was the first step on this path from the non-conscious to the basic consciousness that ultimately led to the convoluted consciousness we humans enjoy today? Take a stone. The consensus is that a stone is not conscious. Though, not everyone agrees even on this. Some panpsychists claim that a lump of rock may have an inner life. However, there are no real grounds for any such assumption since stones never show behaviour. Their inner life can neither be proven nor disproven.
