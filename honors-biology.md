@@ -4,7 +4,15 @@ Evolutionary biology essay: Honors 2018-2019
 
 # Evolution of consciousness
 
+Anand Chowdhary, Honors: *Origins*, s1930702
+
 ## Introduction
+
+### Abstract
+
+When we think and act, there is a very deliberate, conscious effort to do those things. Perhaps this is driven by feeling external stimuli or having internal thought. This literature research paper aims to answer the question "How did consciousness evolve in humans?" through a look at evolutionary biology and to explore the various Darwinian steps to consciousness.
+
+### Background
 
 #### definition of consciousness
 In general, consciousness is what allows us to be aware both of our surroundings and of our own inner state (Van Gulick, 2014 [1]). The term "consciousness" used with a diversity of meanings, and applied both to whole organisms — creature consciousness — and to particular mental states and processes — state consciousness (Rosenthal 1986, Gennaro 1995, Carruthers 2000).
@@ -52,8 +60,8 @@ As noted from the previous definitions, philosophers and biologists have struggl
 #### evolution by natural selection
 Evolution is the process of adaptation through mutation which allows more desirable characteristics to be passed to the next generation. Over time, organisms evolve more characteristics that are beneficial to their survival. For living organisms to adapt and change to environmental pressures, genetic variation must be present. With genetic variation, individuals have differences in form and function that allow some to survive certain conditions better than others. These organisms pass their favorable traits to their offspring. Eventually, environments change, and what was once a desirable, advantageous trait may become an undesirable trait and organisms may further evolve (OpenStax, 2016).
 
-#### problem statement
-The answer to the research question "How did consciousness evolve in animals?" can therefore be answered using In organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian outcomes, it is therefore a "gradient" or steam of consciousness and therefore a hard line between conscious and lack thereof cannot be drawn. This literature research paper aims to establish the link between evolution by natural selection and the origin of consciousness
+### Problem statement
+The answer to the research question "How did consciousness evolve in animals?" can therefore be answered: in organic life, most notably humans, consciousness is likely to have evolved from less complex forms, as a product of evolution by natural selection. Like much of Darwinian outcomes, it is therefore a "gradient" or steam of consciousness and therefore a hard line between conscious and lack thereof cannot be drawn. This essay aims to establish the link between evolution by natural selection and the origin of consciousness and to explore the various stages that lead to the current state of human consciousness.
 
 ## Evolution
 
