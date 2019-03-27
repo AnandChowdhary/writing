@@ -100,27 +100,11 @@ Indicate why you prefer to carry out your research at the host institute includi
 
 ### 2b. Knowledge utilisation
 
-#### Potential (or explanation of lack thereof), including: 
-- contribution to society and/or other scientific areas;
-- disciplines and organisations that might benefit from the results.
-
-#### Implementation, including:
-- action plan to allow the outcomes of the research project to benefit the potential knowledge users;
-- if and how the potential knowledge users will be involved;
-- (concrete) outcomes for society and other academic disciplines;
-- the period over which knowledge utilisation is expected to occur.
-
-##### making education better
-
-In this day and age of fast-paced technology, a new generation of computers and smartphones comes out every few years, but grade education has not changed for a very long time. This is unfortunate because education is perhaps the most important tool with which governments can empower their young population and secure their future. The proposed study aims to add value to the traditional classroom and promote practice at home using an e-learning platform. The true value of a good education is intangible, and making the education process better for students adds tremendous value to society.
-
-##### implementation
+> **Probably delete this paragraph?** In this day and age of fast-paced technology, a new generation of computers and smartphones comes out every few years, but grade education has not changed for a very long time. This is unfortunate because education is perhaps the most important tool with which governments can empower their young population and secure their future. The proposed study aims to add value to the traditional classroom and promote practice at home using an e-learning platform. The true value of a good education is intangible, and making the education process better for students adds tremendous value to society.
 
 Once the study has proved the utility of the platform and increase in learning, it can be implemented in real schools in the Netherlands and around the world. During the research, a diverse set of several schools in the Netherlands will participate and may see improvements in students' learning. After that, a trial can be conducted in all schools in a single province, and then this can be extended to all schools in the Netherlands. This means that the study will not just add value to the understanding of what makes learning better for students, but truly achieve this purpose. Another study can be conducted to measure any long-term effects of the implementation as well.
 
-##### scientific relevance
-
-Furthermore, the proposed study will also add value as scientific knowledge. Once concluded and peer reviewed, a large dataset will be compiled and released of student performance corresponding to each set of e-learning features. This means that other statistics or machine learning applications can also come out of this research. Finally, the publication of these findings will also be useful since it will be the first large-scale and comprehensive study which will evaluate several different aspects of e-learning, and also explore the benefits of homework via e-learning. Other researchers can build of top of this study and compare the utility of other features in e-learning which are not considered in this research.
+The underlying technology of the platform can be protected using patents and intellectual property law, which can be used to set up a startup. The company can provide a service to help schools in the Netherlands (and scale globally) a central platform to help students perform better. Furthermore, the proposed study will also add value as scientific knowledge. Once concluded and peer reviewed, a large dataset will be compiled and released of student performance corresponding to each set of e-learning features. This means that other statistics or machine learning applications can also come out of this research. Finally, the publication of these findings will also be useful since it will be the first large-scale and comprehensive study which will evaluate several different aspects of e-learning, and also explore the benefits of homework via e-learning. Not just an article, but also a book can be born out of this research. Other researchers can build of top of this study and compare the utility of other features in e-learning which are not considered in this research.
 
 ### 2c. Number of words used
 
