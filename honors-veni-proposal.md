@@ -185,4 +185,4 @@ Section 2b: **326** (max. 750 words)
 September 1, 2019
 
 ### 3f. Additional grants
-*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* Yes, a prototype of the proposed platform was presented at a hackthon (Brighthack) in November 2018. As the winning prize, Educatieve Agenda Limburg committed to contributing €12,500 for building the platform. [More information](https://anandchowdhary.com/projects/aristotle/)
+*Have you applied for any additional grants for this project either from NWO or from any other institution, and/or has the same idea been submitted elsewhere?* Yes, a prototype of the proposed platform was presented at a hackthon (Brighthack) in November 2018. As the winning prize, Educatieve Agenda Limburg committed to contributing €12,500 for building the platform. [More information about the prize](https://anandchowdhary.com/projects/aristotle/). However, this grant it specifically for the further development and implementation of the platform in Limburg's schools, and not the initial research requirements.
