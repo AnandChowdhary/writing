@@ -64,15 +64,21 @@ The study will be conducted over four years and will go through the following st
 - Year 3: Lo-fi testing and platform development
 - Year 4. Factorial study and end study
 
-##### Literature Research
+In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have. In this step, papers across technology, psychology, and education will be studied, from journals including Social and Behavioral Sciences, Computers in Human Behavior, and Telematics and Informatics. This interdisciplinary perspective will help compile a list of prospective features for the platform based on the current research in e-learning. 
 
-In the first six months, a thorough literature research will be conducted which will help establish a list of features the platform will have.
+For curation, databases such as Scopus, ScienceDirect, and Google Scholar will be used with queries such as the following, which finds documents relating to e-learning in schools:
 
-After that, a factorial study will be conducted over one year evaluating each feature individually and finding which combination works the best for students.
+```
+TITLE-ABS-KEY ( ( "e-learning" OR "elearning" ) AND "school" AND NOT "higher education" AND NOT "university" )
+```
 
-For developing the platform, each feature will be assessed based on literature research and interviews. For example, interviews will be conducted with students to identify the distraction and motivational aspects of revising at home, and the results will be used to build a solution implemented in the platform (e.g., engagement through notifications).
+Both, papers relating to "mixed" e-learning and distance learning will be assessed, and combined with interviews and surveys with students, teachers, and industry experts. For example, interviews will be conducted with students to identify the distraction and motivational aspects of revising at home, and the results will be used to build a solution implemented in the platform (e.g., engagement through notifications).
 
-The design of this study with be factorial, i.e., the study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels, which will measure student grades in each factorial unit. This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
+Once the list of features for the platform has been completed, prototypes will be developed for each feature and tested with students. This will be a Build-Measure-Test process, and incremental changes to the prototypes will be part of the testing process, which will bring each feature closer to its final form.
+
+Once this process is completed, the platform will be developed. Technologies used for the platform will include a front-end development framework, either React or Vue.js, and a cross-platform native app development framework like Flutter. For the backend, RESTful APIs and services will be developed in Node.js and hosted on Amazon Web Services's Elastic Compute Cloud (AWS EC2).
+
+Using the platform, a factorial study will be conducted over one year evaluating each feature individually and finding which combination works the best for students. The study will be divided into discrete levels (each feature of the platform) and the experimental units take on all possible combinations of these levels, which will measure student grades in each factorial unit. This will allow us to study the effect of each feature in the platform on the response variable (i.e., student performance), as well as the effects of interactions between features.
 
 The following example is a 3x3 factorial study with the following factors: Engagement through notifications, interactive content (videos and games), and gamification of platform. In the proposed study, the factors will be determined using literature research.
 
