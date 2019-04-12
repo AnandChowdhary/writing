@@ -4,10 +4,7 @@
 
 ### 2a1, 2a2, and 2a3. Description of the proposed research
 
-#### 2a1. Overall aim and key objectives, including:
-- scientific relevance and challenges;
-- originality and innovative character; 
-- methods and techniques.
+#### 2a1. Overall aim and key objectives
 
 ##### mini-summary of RQ, approach, and expected outcome
 In the proposed research, the question asked is: “Does implementing an e-learning solution with data-driven engagement features for homework and practice alongside the classroom increase student grades in secondary education?” For this, a web and app-based platform will be developed and studied to compare results with not having the platform, and each sub-question of this research aims to achieve a proof-of-concept feature in said platform. We aim to improve the homework experience for students, which in turn will increase their performance.
@@ -52,10 +49,7 @@ Therefore, this research proposal aims to:
 
 In the initial stage of the the proposed project, literature research along with surveys and interviews will be conducted. Based on this, lo-fi prototypes for each feature will be developed and tested. Then, the final e-learning platform will be developed, which will be followed by an empirical experiment on a diverse set of students from different schools around the Netherlands. To show that the platform truly contributes to better learning, a controlled experiment will be conducted at the end of the study with students who previously scored approximately equal grades.
 
-#### 2a2. Research plan, including:
-- practical timetable/timeline over the grant period;
-- local, national and international collaboration;
-- work plan (in narrative form).
+#### 2a2. Research plan
 
 The study will be conducted over four years and will go through the following stages:
 
@@ -92,6 +86,8 @@ Therefore, there are 3! + 1 = 7 possibilities (3 individual factors + 3 combinat
 
 The study will be conducted in multiple schools at the same time to get a more aggregated and general result, for which several partnerships with municipalities and educational instituted will be established. Therefore, the primary partners for this study will be the *Ministerie van Onderwijs, Cultuur en Wetenschappen*, and provinces whose students participate in the study. Other sources for research and potential partners include *Inspectie van het Onderwijs (Onderwijsinspectie)* and the *Organisation for Economic Co-operation and Development (OECD)*.
 
+For the development of the platform, the primary collaborator is Oswald Labs, an accessibility technology company. Oswald Labs has a past track record with high-availability, scalable products which are used by thousands of users every month. They also specialize in research and development of disabled-friendly products, including school students with disabilities. Their experience in technology development and bringing products to the market will be a valuable resource when building and implementing the platform.
+
 #### 2a3. Motivation for choice of host institute
 Indicate why you prefer to carry out your research at the host institute including:
 - Reasons for choosing this research group;
@@ -99,8 +95,6 @@ Indicate why you prefer to carry out your research at the host institute includi
 - Any other motivation for your choice of the host institute.
 
 ### 2b. Knowledge utilisation
-
-> **Probably delete this paragraph?** In this day and age of fast-paced technology, a new generation of computers and smartphones comes out every few years, but grade education has not changed for a very long time. This is unfortunate because education is perhaps the most important tool with which governments can empower their young population and secure their future. The proposed study aims to add value to the traditional classroom and promote practice at home using an e-learning platform. The true value of a good education is intangible, and making the education process better for students adds tremendous value to society.
 
 Once the study has proved the utility of the platform and increase in learning, it can be implemented in real schools in the Netherlands and around the world. During the research, a diverse set of several schools in the Netherlands will participate and may see improvements in students' learning. After that, a trial can be conducted in all schools in a single province, and then this can be extended to all schools in the Netherlands. This means that the study will not just add value to the understanding of what makes learning better for students, but truly achieve this purpose. Another study can be conducted to measure any long-term effects of the implementation as well.
 
