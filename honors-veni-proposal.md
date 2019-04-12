@@ -2,6 +2,17 @@
 
 ## Research Proposal
 
+- [ ] The research question is a yes/no question (and would be answered with yes even if students’ grades were only increased with .05…); it would also be ok to propose a (design) aim.
+- [ ] I you say something like “Many studies have also shown that that effective use of e-learning could help increase student motivation engagement, and attendance” include at least some of these references.
+- [ ] You specifically say “(students with access to the platform without forcing them to use it)”=> of course it is good not to enforce anything, on the other hand this may make it difficult for you to draw conclusions. How are you going to deal with and take into account non-use, and in general how will you evaluate (extent of) use in that phase of the study? So what kind of data collection will take place in phase 3-4?
+- [ ] Are you sure you need the Ministry or rather/also a set of schools or school boards as partners?
+- [ ] I thnk this paper might be used to argue something about the point that tech should be complementary, with a role of the teacher, rather than replacing the teacher --> by talking about these interaction roles discussed in the paper: Laurillard, D. (2008). The teacher as action researcher: Using technology to capture pedagogic form. Studies in Higher Education, 33(2), 139–154. https://doi.org/10.1080/03075070801915908
+- [ ] "Therefore, the primary partners for this study" --> No. They are partners for translating outcomes to policy and practice, but your primary partners by necessity are the schools, teachers, and students. You must say soemthing here, I think, on how you plan to realise those collaborations. You need access to a school for repeatedly coming back for interviews, tests, more tests, etc. It is not enough for this to talk to a teacher: you need to establish a long term relation with specific schools, select specific classes / teachers to join; acquire student and parental consent to work with them in interviews, data collection, and studies, and organise the ethical checks for this. You must show how you plan to do this.
+- [ ] 2a3: why this host institute? some arguments are: UT groups together have extensive knolwedge on interaction technology for teaching and learning, from the technology perspective as well as from the learning psychology perspective as well as from the cross-disciplinary mix between them. Furthermore, UT has much experience with building long term research collabroations with schools, parents and students --> HMI's "designlab school trip research days", the Pre-U network, HMI's long termj in-school reserach; all work being done in the education groups at BML with / in/around schools, etc.
+- [ ] under "collbodation" (end of 2a2) you could also talk about collaboration with Oswald, an experienced developer of novel tools that are actually brought to market
+- [ ] regarding the main RQ, I agree with Cindy; variations include "HOW does...", or "what is an optimal design for a system that... and to what extent does it improve.... in practice?"
+- [ ] if you have room, you could elaborate on the final study designs a bit more, as long term studies are tricky to organise and it is good if the reader sees you "have that under control"
+
 ### 2a1, 2a2, and 2a3. Description of the proposed research
 
 #### 2a1. Overall aim and key objectives
