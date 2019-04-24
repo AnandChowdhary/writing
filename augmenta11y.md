@@ -1,6 +1,10 @@
 # Augmenta11y
 
-- Mumbai engineering students invent app to help students with dyslexia
+- Mumbai engineering students invent app to help children with dyslexia
+- Thanks to this app, students with dyslexia can read faster
+- Meet the student team behind dyslexia-friendly reading app
+- How a team of 21/22-year-olds invented a way to help children with dyslexia
+- Oswald Labs launched dyslexia-friendly reading app for students
 
 Dyslexia is the most common learning disability. At its core, it makes reading hard, which is perhaps the most important part for school education. This is why children with dyslexic often do not get high grades, but this has nothing to do with their intelligence. In India, there are 3.5 Crore children with dyslexia currently in schools.
 
