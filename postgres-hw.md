@@ -17,3 +17,7 @@ Give all roles that actor ‘Bruce Willis’ played [4 rows]
 ```sql
 SELECT role FROM movies.acts WHERE pid = (SELECT pid FROM movies.person WHERE name = 'Bruce Willis');
 ```
+Give the number of persons in the database [1 row with the number 3279]
+```sql
+SELECT COUNT (*) FROM movies.person;
+```
