@@ -50,3 +50,28 @@ SELECT language, COUNT(*) FROM movies.language GROUP BY language ORDER BY COUNT(
 ```
 
 ## Regular
+
+Give an alphabetically ordered list of all actors who acted in movies with a rating of 8.9 or higher. [70 rows]
+```sql
+SELECT name FROM movies.person WHERE pid IN (SELECT pid FROM movies.acts WHERE mid IN (SELECT mid FROM movies.movie WHERE rating >= 8.9)) ORDER BY name ASC;
+```
+
+Give the names of all writers of movies in which Harrison Ford acts. [11 rows]
+```
+SELECT name FROM movies.person WHERE pid IN (SELECT DISTINCT pid FROM movies.writes WHERE mid IN (SELECT mid FROM movies.acts WHERE pid = (SELECT pid FROM movies.person WHERE name = 'Harrison Ford'))) ORDER BY name ASC;
+```
+
+Give a list of directors who also acted, with the number of movies in which they acted. [23 rows]
+```sql
+SELECT name FROM movies.person WHERE pid IN (SELECT DISTINCT movies.acts.pid FROM movies.acts, movies.directs WHERE movies.acts.pid = movies.directs.pid) ORDER BY name ASC;
+```
+
+Return for all directors the number of movies they have directed.
+```sql
+SELECT movies.person.name, COUNT(movies.directs.mid) as movieCount FROM movies.directs, movies.person WHERE movies.person.pid = movies.directs.pid GROUP BY movies.directs.pid, movies.person.name ORDER BY movieCount DESC;
+```
+
+Give per genre, in how many movies of that genre ‘Bruce Willis’ acted [6 rows]
+```sql
+SELECT movies.genre.genre, COUNT(movies.genre.mid) as genreCount FROM movies.acts, movies.genre WHERE pid = (SELECT pid FROM movies.person WHERE name = 'Bruce Willis') AND movies.genre.mid = movies.acts.mid GROUP BY movies.genre.genre ORDER BY genreCount DESC;
+```
