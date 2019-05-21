@@ -92,3 +92,16 @@ Give the names of all authors who only wrote movies that have no director. [Answ
 ```sql
 SELECT name FROM movies.person WHERE pid IN ((SELECT pid FROM movies.writes WHERE mid IN ((SELECT mid FROM movies.movie) EXCEPT (SELECT mid FROM movies.directs))) EXCEPT (SELECT pid FROM movies.writes WHERE mid IN (SELECT DISTINCT mid FROM movies.directs)));
 ```
+
+# Part 2
+
+## Minimal
+
+```CREATE TABLE student (student_id int, PRIMARY KEY (student_id) )```
+```CREATE TABLE quarter (year_quarter int, start_month text, end_month text, PRIMARY KEY (year_quarter) )```
+```CREATE TABLE teacher (teacher_id int, name text, PRIMARY KEY (teacher_id) )```
+```CREATE TABLE course (course_code int, name text, PRIMARY KEY (course_id) )```
+
+```INSERT INTO dda058.course (course_code, name) SELECT course_code, course as name FROM srs.courses;```
+```INSERT INTO dda058.quarter (year_quarter) SELECT DISTINCT int4(CONCAT(year, quarter)) as year_quarter FROM srs.education;```
+```UPDATE dda058.quarter SET start_month = 'September', end_month = 'November' WHERE year_quarter IN (SELECT year_quarter FROM dda058.quarter WHERE RIGHT(text(year_quarter), 1) = '1');```
