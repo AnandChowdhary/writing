@@ -1,6 +1,6 @@
 Return all movies from the year 2000 [8 movies]
 ```sql
-SELECT * FROM movies.movie WHERE year = 2000;
+SELECT name FROM movies.movie WHERE year = 2000;
 ```
 
 Return the name and year of all movies with the genre ‘Drama’ (143 movies)
