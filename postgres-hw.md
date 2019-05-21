@@ -105,3 +105,5 @@ SELECT name FROM movies.person WHERE pid IN ((SELECT pid FROM movies.writes WHER
 ```INSERT INTO dda058.course (course_code, name) SELECT course_code, course as name FROM srs.courses;```
 ```INSERT INTO dda058.quarter (year_quarter) SELECT DISTINCT int4(CONCAT(year, quarter)) as year_quarter FROM srs.education;```
 ```UPDATE dda058.quarter SET start_month = 'September', end_month = 'November' WHERE year_quarter IN (SELECT year_quarter FROM dda058.quarter WHERE RIGHT(text(year_quarter), 1) = '1');```
+```INSERT INTO dda058.teacher (teacher_id, name) SELECT DISTINCT teacher_id, teacher as name FROM srs.education;```
+
