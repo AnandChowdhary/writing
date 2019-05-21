@@ -57,7 +57,7 @@ SELECT name FROM movies.person WHERE pid IN (SELECT pid FROM movies.acts WHERE m
 ```
 
 Give the names of all writers of movies in which Harrison Ford acts. [11 rows]
-```
+```sql
 SELECT name FROM movies.person WHERE pid IN (SELECT DISTINCT pid FROM movies.writes WHERE mid IN (SELECT mid FROM movies.acts WHERE pid = (SELECT pid FROM movies.person WHERE name = 'Harrison Ford'))) ORDER BY name ASC;
 ```
 
@@ -74,4 +74,21 @@ SELECT movies.person.name, COUNT(movies.directs.mid) as movieCount FROM movies.d
 Give per genre, in how many movies of that genre ‘Bruce Willis’ acted [6 rows]
 ```sql
 SELECT movies.genre.genre, COUNT(movies.genre.mid) as genreCount FROM movies.acts, movies.genre WHERE pid = (SELECT pid FROM movies.person WHERE name = 'Bruce Willis') AND movies.genre.mid = movies.acts.mid GROUP BY movies.genre.genre ORDER BY genreCount DESC;
+```
+
+## Advanced
+
+Give all persons associated with the movie “Casablanca” (i.e., the names of all actors, directors, and writers) [17 rows]
+```sql
+SELECT name FROM person WHERE pid IN (((SELECT pid FROM movies.acts WHERE mid = (SELECT mid FROM movies.movie WHERE name = 'Casablanca')) UNION (SELECT pid FROM movies.directs WHERE mid = (SELECT mid FROM movies.movie WHERE name = 'Casablanca')) UNION (SELECT pid FROM movies.writes WHERE mid = (SELECT mid FROM movies.movie WHERE name = 'Casablanca'))));
+```
+
+Give the names of all authors who wrote a movie that has no director. [answer: Mogens Rukov, Thomas Vinterberg]
+```sql
+SELECT name FROM movies.person WHERE pid IN (SELECT pid FROM movies.writes WHERE mid IN ((SELECT mid FROM movies.movie) EXCEPT (SELECT mid FROM movies.directs)));
+```
+
+Give the names of all authors who only wrote movies that have no director. [Answer:Thomas Vinterberg]
+```sql
+SELECT name FROM movies.person WHERE pid IN ((SELECT pid FROM movies.writes WHERE mid IN ((SELECT mid FROM movies.movie) EXCEPT (SELECT mid FROM movies.directs))) EXCEPT (SELECT pid FROM movies.writes WHERE mid IN (SELECT DISTINCT mid FROM movies.directs)));
 ```
