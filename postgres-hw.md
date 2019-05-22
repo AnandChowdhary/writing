@@ -97,13 +97,36 @@ SELECT name FROM movies.person WHERE pid IN ((SELECT pid FROM movies.writes WHER
 
 ## Minimal
 
+In your database, there is already an empty schema with the same name as your database (i.e., “ddaNNN”). Create empty tables for this table structure in this schema using SQL, i.e., give a CREATE TABLE statement for each table.
+
 ```CREATE TABLE student (student_id int, PRIMARY KEY (student_id) )```
 ```CREATE TABLE quarter (year_quarter int, start_month text, end_month text, PRIMARY KEY (year_quarter) )```
 ```CREATE TABLE teacher (teacher_id int, name text, PRIMARY KEY (teacher_id) )```
 ```CREATE TABLE course (course_code int, name text, PRIMARY KEY (course_id) )```
+
+The source data for your cube resides in the three tables of the “srs” schema. Asalways, it is not in the shape you want (the table structure you’ve just created). Write SQL statements for filling your empty tables with data from the “srs” schema. These SQL statements in fact do the transformation and store the transformed data into the newly created tables in one go.
 
 ```INSERT INTO dda058.course (course_code, name) SELECT course_code, course as name FROM srs.courses;```
 ```INSERT INTO dda058.quarter (year_quarter) SELECT DISTINCT int4(CONCAT(year, quarter)) as year_quarter FROM srs.education;```
 ```UPDATE dda058.quarter SET start_month = 'September', end_month = 'November' WHERE year_quarter IN (SELECT year_quarter FROM dda058.quarter WHERE RIGHT(text(year_quarter), 1) = '1');```
 ```INSERT INTO dda058.teacher (teacher_id, name) SELECT DISTINCT teacher_id, teacher as name FROM srs.education;```
 
+## Regular
+
+Design a table structure for the star schema of Figure 3.
+
+Create empty tables for this table structure in this schema using SQL following the method from the lecture. Note: the dimensions Teacher, Course, and Quarter are already in your database. You can re-use them, so you only need to create the new tables.
+
+```CREATE TABLE "dda058"."grades" ( "grade_id" int4 NOT NULL, "grade" int4, "user_id" int4, "course_id" int4, PRIMARY KEY ("grade_id"), CONSTRAINT "user_id" FOREIGN KEY ("user_id") REFERENCES "dda058"."student" ("student_id"), CONSTRAINT "course_id" FOREIGN KEY ("course_id") REFERENCES "dda058"."course" ("course_code") ) ;```
+```CREATE TABLE student (student_id int, PRIMARY KEY (student_id) )```
+```CREATE TABLE quarter (year_quarter int, start_month text, end_month text, PRIMARY KEY (year_quarter) )```
+```CREATE TABLE teacher (teacher_id int, name text, PRIMARY KEY (teacher_id) )```
+```CREATE TABLE course (course_code int, name text, PRIMARY KEY (course_id) )```
+
+Write SQL statements for filling your empty tables with data from the “srs” schema.
+
+```INSERT INTO dda058.grades (user_id, course_id, grade, quarter_id) SELECT student_id as user_id, course_code as course_id, grade, int4(CONCAT(year, quarter)) as quarter_id FROM srs.grades;```
+```INSERT INTO dda058.course (course_code, name) SELECT course_code, course as name FROM srs.courses;```
+```INSERT INTO dda058.quarter (year_quarter) SELECT DISTINCT int4(CONCAT(year, quarter)) as year_quarter FROM srs.education;```
+```UPDATE dda058.quarter SET start_month = 'September', end_month = 'November' WHERE year_quarter IN (SELECT year_quarter FROM dda058.quarter WHERE RIGHT(text(year_quarter), 1) = '1');```
+```INSERT INTO dda058.teacher (teacher_id, name) SELECT DISTINCT teacher_id, teacher as name FROM srs.education;```
