@@ -3,7 +3,8 @@ I'm exploring what the pricing of our web accessibility widget could look like..
 |  | Free | Basic | Pro |
 | - | - | - | - |
 |  | **$0**/m | **$19**/m | **$39**/m |
-| Pageviews | Unlimited | Unlimited | Unlimited |
+| Unlimited pageviews | ✓ | ✓ | ✓ |
+| Unlimited usage | ✓ | ✓ | ✓ |
 | 20+ apps & modes | ✓ | ✓ | ✓ |
 | Usage metrics | ✓ | ✓ | ✓ |
 | White labeling | | ✓ | ✓ |
