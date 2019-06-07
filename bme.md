@@ -111,4 +111,76 @@ Evolutionary improvement:
 
 ### Potentiometry
 
+In the following section, the body is modeled as an electrolyte (aqueous, salty solution), with the contact point being the electrode modeled as a metal.
 
+There are two possibilities:
+
+1. Polarization
+  - A charged metal will attract ions with the opposite charge, creating a double layer
+  - No electrons cross the electrode-electrolyte barrier (like a capacitor)
+	- Metal has to be noble (chemically inert) and external voltage should be low, to prevent electron exchange
+2. Electron transfer, redox
+  - Basic metals react with ions in solution, electron transfer takes place
+  - At electrode, a(half cell) potential *wrt* standard potential is generated
+	
+There should be a second electrode to close the system with a stable and constant potential, i.e., reference electrode.
+	
+#### Electrodes
+
+- **Electrolyte** is an aqueous solution; ions carry the charge
+- **Electrode** is a piece of metal; electrons transfer charge
+- **Electrochemical cells** are the electrodes separated by electrolyte
+- **Cell potential** is potential difference across the electrodes of an electrochemical cell
+- **Half reaction** is electrochemical reaction at one of the two electrolyte/electrode interfaces
+- **Working electrode** is electrode of interest
+- **Reference electrode** is electrode with stable and known cell potential
+
+Potentiometry is the measurement of a working electrode potential *wrt* a reference electrode as a function of the concentration of some chemical species in the electrolyte at (almost) zero current.
+
+##### Ag/AgCl reference electrode
+
+- Ag/AgCl wire is kept in a saturated KCl solution with solid KCl crystals at the bottom
+- Even if Cl- leaks out of the electrode, solid KCl will dissolve to keep solution saturated
+- KCl solution should remain saturated to ensure concentration of Cl- ∴ cell potential is constant
+
+#### Electrode-skin contact
+
+Two types of electrodes:
+
+| Electrode type | R<sub>F</sub> value | Behavior |
+| - | - | - |
+| Polarisable | Very large | Capacitive (no DC current) |
+| Non-polarisable | Very small | Resistive (DC current ⇒ e<sup>-</sup> transfer) |
+
+Non-polarisable electrodes are used ∵ redox reactions are allowed and there is low Ohmic contact.
+
+As non-polarisable electrodes, Ag/AgCl electrodes are used:
+
+- Helps reducing interfacial potentials (result of the dissimilar electrolytic interfaces)
+- Electrolytic gel enhances conductivity
+- Relatively low-cost and general-purpose electrode
+- Particularly suited for long-term use
+
+#### Electrophysiological measurements
+
+##### ElectroMyoGraphy (EMG)
+
+- Measures the electric activity of active muscle fibers
+- Electrodes connected very close to the measured muscle group
+- Rough indication of the muscle activity from rectified and integrated signal
+- Needle electrodes for individual muscle fibers
+- Main sources of errors are 50/60 Hz and RF interference
+- Amplitude: 1 to 10 mV, Bandwidth: 20 Hz to 20 kHz
+
+##### ElectroCardioGraphy (ECG)
+
+- Measures the electric activity of the heart
+- Detects tiny electrical changes on skin that arise from the heart muscle depolarizing during each heartbeat
+- More uniform, repetitive ∵ way more cell synchronization in heartbeats
+- Signals are stronger and less sensitive to noise
+
+##### Amplifiers
+
+| ECG amplifier (heart) | EEG amplifier (brain) | EMG amplifier (muscles) | EOG amplifier (eyes) |
+| - | - | - | - |
+| Requires isolation from power line and ground | Gain must be μV, Requires low front-end electronic noise | Post-processing circuits needed | High gain, low frequency/DC response<br>DC-drifting correction may be necessary |
