@@ -1,0 +1,1 @@
+Homeostasis: Maintaining relatively constant physical and chemical conditions of the internal environment, though there are changes in the external environment.
