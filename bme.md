@@ -1,3 +1,7 @@
+# Biosignals and Medical Electronics
+
+## Lecture Slides
+
 ### Physiology
 
 #### Homeostasis
@@ -104,3 +108,7 @@ Evolutionary improvement:
 - 1 motor neuron's AP leads to Multiple AP in the muscle fibers
 - Summed AP is Motor Unit Action Potential (MUAP)
 - Multiple Motor Units are firing at the same time, sum of MUAPs is voltage outside via skin
+
+### Potentiometry
+
+
