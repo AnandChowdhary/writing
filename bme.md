@@ -72,3 +72,35 @@ V<sub>mem</sub> can change due to:
 - Other neurons sending signals to dendrites
 - Changes from inside the cell altering K+ and Na+ concentrations
 
+##### Action potentials (AP)
+
+- Membrane has voltage gated Na+ and K+ channels
+- Positive feedback occurs if, e.g., sudden influx of Na+ to cell
+- If V<sub>mem</sub> rises, channels open, Na+ in, K+ out, more channels open, etc.
+- This gives rise to the action potential:
+  - Threshold potential: Critical membrane potential level for action potential to occur
+  - Threshold stimulus: Just strong enough to depolarize membrane to threshold potential level
+- AP is produced by increase in Na+ (V<sub>ICF</sub> ↑), then after a short delay K+ increases (V<sub>ICF</sub> ↓)
+- Refractory Periods:
+  - Absolute: No new AP can be generated (0–1ms)
+	- Relative: New AP can be generate with stronger stimulus (1–3ms)
+	
+Evolutionary improvement:
+
+- Conduction rate of membrane is slow; axon electrical properties are poor (high R, charge leak)
+- Multiple Schwann cells on one axon with Myelin to prevent ion movement through membrane
+- AP only occurs at nodes; myelination ⇒ axon protection, faster conduction rate, energy efficiency)
+
+##### Synapses
+
+- Axon terminals no physical contact with other neurons' dendrites
+- AP at axon end triggers chemical release (neurotransmitters)
+- Many axons can be connected to dendrites of single neuron, i.e., 1 neuron firing triggers many neurons
+- Connections are flexible and can change over time
+
+#### Electrophysiological communication
+
+- One motor neuron controls multiple muscle fibers
+- 1 motor neuron's AP leads to Multiple AP in the muscle fibers
+- Summed AP is Motor Unit Action Potential (MUAP)
+- Multiple Motor Units are firing at the same time, sum of MUAPs is voltage outside via skin
