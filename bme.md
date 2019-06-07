@@ -215,3 +215,64 @@ As non-polarisable electrodes, Ag/AgCl electrodes are used:
 See diagrams (important)
 
 ### Noise
+
+- Noise is random fluctuations of signal
+- Produced by variations in components within system or external effects of environment
+- Multiple noise sources can be present and added, i.e., v<sub>meas</sub> = v<sub>signal</sub>(t) + Σv<sub>noise,i</sub>
+
+#### Noise values
+
+##### Top value
+
+- Direct measure for signal strength
+- Total measured value v<sub>meas,max</sub> = v<sub>signal,max</sub> + v<sub>noise,max</sub>
+
+##### Noise power
+
+- P(t) = v(t) i(t) \[W]
+- Average power of signal is p<sub>avg</sub> = 1/T ∫ p(t) dt
+- For resistor R, average power is p<sub>avg</sub> = 1/T ∫ (v<sup>2</sup>(t) / R) dt
+- For R = 1 Ω, is p<sub>avg</sub> = 1/T ∫ v<sup>2</sup>(t) dt
+- Power is distributed over frequency ranges, so  focus only on certain bandwidth
+
+##### Noise voltages
+
+- For R = 1 Ω, V<sub>RMS</sub> = √(P<sub>avg</sub>)
+- v<sub>RMS, meas</sub> = √(v<sub>RMS,signal</sub><sup>2</sup> + v<sub>RMS,noise</sub><sup>2</sup>)
+
+##### Signal-to-noise Ratio (SNR)
+
+- SNR = p<sub>avg,signal</sub> / p<sub>avg,noise</sub> or 10 log(p<sub>avg,signal</sub> / p<sub>avg,noise</sub>) in dB
+- SNR voltages = v<sub>RMS,signal</sub><sup>2</sup> / v<sub>RMS,noise</sub><sup>2</sup> or 20 log(v<sub>RMS,signal</sub><sup>2</sup> / v<sub>RMS,noise</sub><sup>2</sup>) in dB
+
+#### Noise in electrophysiological measurements
+
+- Noise sources within body can be solve by correct placement of electrodes (Common Mode Signal), e.g., strong heart activity can be removed by placing electrodes s.t. heart signal is equal in both electrodes
+- Noise sources from the environment, e.g., many 50 Hz sources, non-ideal components
+
+##### Types of electronic noise
+
+1. Thermal noise (or Johnson noise)
+  - All electrical components that have resistance generate it
+  - Higher the temperature, more the thermal noise
+  - Has components at all frequencies with noise power equal in all bands
+  - White noise with flat frequency spectrum
+	- Theoretically infinite bandwidth, but in practice limited to operational bandwidth
+	- Power of thermal noise P = 4kTB (independent of R)
+	- RMS voltage of thermal noise v<sub>RMS,n</sub> = √(4kTBR)
+2. Shot noise
+  - Discrete and granular current caused by individual charge carriers
+  - Modeled by a current source I<sub>RMS,n</sub> = √(2qBI)
+3. Amplifier noise
+  - All amplifiers generate noise as a system level
+  - Noise at output is is weighted sum of all sources
+  - In general, larger the A, larger the noise
+  - Modeled as equivalent noise source at input
+  - v<sub>RMS_noise,output</sub>=v<sub>RMS_noise,specs</sub>A√B
+	
+##### Remedies for noise
+
+- Elimination: Correct electrode placement, cooling, preventing movement, etc.
+- Shielding: Conductive sleeve over electrode lead creates additional capacitive coupling
+- Filtering: Can be used if noise frequency is not the same as signal frequency
+- Corrections can be applied if noise source can be precisely characterized
