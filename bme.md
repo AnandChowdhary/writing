@@ -121,7 +121,7 @@ There are two possibilities:
 	- Metal has to be noble (chemically inert) and external voltage should be low, to prevent electron exchange
 2. Electron transfer, redox
   - Basic metals react with ions in solution, electron transfer takes place
-  - At electrode, a(half cell) potential *wrt* standard potential is generated
+  - A (half cell) potential *wrt* standard potential is generated, calculated with Nernst's Equation
 	
 There should be a second electrode to close the system with a stable and constant potential, i.e., reference electrode.
 	
@@ -179,8 +179,39 @@ As non-polarisable electrodes, Ag/AgCl electrodes are used:
 - More uniform, repetitive ∵ way more cell synchronization in heartbeats
 - Signals are stronger and less sensitive to noise
 
-##### Amplifiers
+### Amplifiers
 
 | ECG amplifier (heart) | EEG amplifier (brain) | EMG amplifier (muscles) | EOG amplifier (eyes) |
 | - | - | - | - |
 | Requires isolation from power line and ground | Gain must be μV, Requires low front-end electronic noise | Post-processing circuits needed | High gain, low frequency/DC response<br>DC-drifting correction may be necessary |
+
+#### Problem in biomedical measurement
+
+- In the cell membrane, ICF (inside) is more negative than ECF (outside)
+- Membrane potential (at rest) is not simply sum of ion potentials (see diagram)
+- Thevenin's theorem: All the separate voltage sources inside and Cs and Rs inside can be modeled as a single non-ideal source V<sub>TH</sub> with a series impedance Z<sub>TH</sub>
+
+#### Differential measurement techniques
+
+- Measure at 2 different position A and B the source of interest such that it contributes as different as possible at these 2 potentials (v<sub>A</sub> and v<sub>B</sub>)
+- At A and B, error sources N will contribute equally and can be cancelled
+- Differential signal: v<sub>1</sub> = v<sub>A</sub> + v<sub>noise</sub>, v<sub>2</sub> = v<sub>b</sub> + v<sub>noise</sub> ⇒ v<sub>diff</sub> = v<sub>2</sub> – v<sub>1</sub> = v<sub>A</sub> – v<sub>B</sub>
+- Common mode signal (average):  v<sub>icm</sub> = 1/2 (v<sub>i1</sub> + v<sub>i2</sub>)
+
+##### Non-ideal amplifiers
+
+- Amplifier has two gains: A<sub>d</sub> and A<sub>cm</sub>
+- Ideally, A<sub>d</sub> very large and A<sub>cm</sub> ~ 0
+- In practice, Acm ≠ 0, common mode noise and disturbance present at output of amplifier ∵ v<sub>cm</sub> is amplified a bit
+- v<sub>o</sub> = A<sub>d</sub>v<sub>i,d</sub> + A<sub>cm</sub>v<sub>icm</sub> (see diagram)
+
+##### Common Mode Rejection Ratio (CMMR)
+
+- CMMR = |A<sub>d</sub>| / |A<sub>cm</sub>| or 20 log(|A<sub>d</sub>| / |A<sub>cm</sub>|)
+- Very, very large CMRR (>> 120dB) needed for clinical measurements
+
+#### Operational Amplifier (OpAmp)
+
+See diagrams (important)
+
+### Noise
