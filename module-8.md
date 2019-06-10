@@ -1,6 +1,6 @@
-# Biosignals and Medical Electronics
+# Module 8: Data
 
-## Lecture Slides
+## Biosignals and Medical Electronics
 
 ### Physiology
 
