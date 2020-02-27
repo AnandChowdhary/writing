@@ -86,13 +86,9 @@ Go to https://console.aws.amazon.com/ses/
 
 Click on "Rule Sets" under "Email Receiving" in the sidebar
 
-Select "Create a Rule Set" and enter "YOUR_SITE_NAME-s3rule" under "Name"
+Click on "Create a Receipt Rule"
 
-Select "Set as Active Rule Set" and click on "Create a Rule Set"
-
-Click on "View Active Rule Set" and select "Create Rule"
-
-Leave "Recipients" blank and click on "Next"
+Leave "Recipients" blank and click on "Next step"
 
 Click on "Add action" under "Actions" and select "S3"
 
@@ -100,15 +96,11 @@ Under "S3 bucket", enter the name of the bucket created above and click on "Next
 
 Under "Rule Details", fill "save-email-to-s3" in "Rule name"
 
-Make sure "Enabled" is checked 
+Make sure "Enabled" and "Enable spam and virus scanning" are checked
 
-Under "Rule set", make sure the newly created rule set is active and has "(Active)" in the name
-
-Under "Insert after rule", select **the position**? (?)
+Under "Insert after rule, make sure "<Beginning>" is the value
 
 Click on "Next Step" and then "Create Rule"
-
-Test this rule is working by clicking on "Domains" in the sidebar, selecting the domain, and clicking "Send a Test Email". Fill the form and send the email, and then find it in the S3 bucket you just created.
 
 ## Envoke serverless function from S3
 
@@ -129,25 +121,68 @@ Under "Function code", make sure "Edit code inline" is selected under "Code entr
 Copy and paste the following in the code editor:
 
 ```js
-exports.handler = async (event) => {
-    try {
-        const key = decodeURIComponent(event.Records[0].s3.object.key.replace(/\+/g, " "));
-        // Here, we call the real webhook with this S3 object
-        return {
+const https = require("https");
+
+exports.handler = event =>
+  new Promise(resolve => {
+    if (
+      !event.Records.length ||
+      !event.Records[0].s3 ||
+      !event.Records[0].s3.object ||
+      !event.Records[0].s3.object.key
+    ) {
+      console.error("ERROR", "Did not get an S3 record");
+      return resolve({
+        statusCode: 400,
+        body: JSON.stringify({
+          success: false,
+          error: "Did not get an S3 record"
+        })
+      });
+    }
+    const key = decodeURIComponent(
+      event.Records[0].s3.object.key.replace(/\+/g, " ")
+    );
+    console.log("Received request", key);
+    const req = https.request(
+      {
+        hostname: "YOUR_WEBSITE.com",
+        port: 443,
+        path: "/ENDPOINT",
+        method: "GET",
+        headers: {
+          Authorization: "Bearer YOUR_TOKEN"
+        }
+      },
+      res => {
+        res.on("end", () => {
+          console.log("Called webhook successfully");
+          resolve({
             statusCode: 200,
             body: JSON.stringify({
-                success: true,
-                key
-            }),
-        };
-    } catch (error) {
-        return {
-            statusCode: 500,
-            body: JSON.stringify({ error: "An error occurred", error })
-        }
-    }
-};
+              success: true,
+              key
+            })
+          });
+        });
+      }
+    );
+    req.on("error", error => {
+      console.error("ERROR", error);
+      resolve({
+        statusCode: 500,
+        body: JSON.stringify({
+          success: false,
+          error: "An error occurred in making the webhook request"
+        })
+      });
+    });
+    req.end();
+  });
+
 ```
+
+In the above JavaScript code, replace YOUR_WEBSITE.com with the host of the endpoint you want to call, /ENDPOINT with the path on that host, and YOUR_TOKEN with an optional authorization header token.
 
 Click on "Save"
 
