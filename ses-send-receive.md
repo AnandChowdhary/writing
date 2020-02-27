@@ -111,3 +111,60 @@ Click on "Next Step" and then "Create Rule"
 Test this rule is working by clicking on "Domains" in the sidebar, selecting the domain, and clicking "Send a Test Email". Fill the form and send the email, and then find it in the S3 bucket you just created.
 
 ## Envoke serverless function from S3
+
+Go to https://eu-central-1.console.aws.amazon.com/lambda/home and click on "Create function"
+
+Select "Author from Scratch"
+
+Under "Function name", write "EmailForwarder"
+
+Unde "Runtime", select "Node.js 12.x"
+
+Under "Execution role", select "Create a new role with basic Lambda permissions"
+
+Click on "Create function" and wait for the function to be created
+
+Under "Function code", make sure "Edit code inline" is selected under "Code entry type"
+
+Copy and paste the following in the code editor:
+
+```js
+exports.handler = async (event) => {
+    try {
+        const key = decodeURIComponent(event.Records[0].s3.object.key.replace(/\+/g, " "));
+        // Here, we call the real webhook with this S3 object
+        return {
+            statusCode: 200,
+            body: JSON.stringify({
+                success: true,
+                key
+            }),
+        };
+    } catch (error) {
+        return {
+            statusCode: 500,
+            body: JSON.stringify({ error: "An error occurred", error })
+        }
+    }
+};
+```
+
+Click on "Save"
+
+Scroll to "Basic settings" and click on "Edit"
+
+Under "Memory (MB)", select the lowest memory (128 MB)
+
+Under "Timeout", write "1" for "min" and "0" for sec and click on "Save"
+
+Under "Designer", click on "Add trigger"
+
+Under "Select a trigger", select "S3" from the list
+
+Under "Bucket", enter the name of your created bucket
+
+Under "Event type", select "All object create events"
+
+Make sure "Enable trigger" is checked and click on "Add"
+
+Go to https://eu-central-1.console.aws.amazon.com/ses/home and add Lambda action to the Receipt Rule. Configure the Receipt Rule to invoke the Lambda function that you created earlier.
