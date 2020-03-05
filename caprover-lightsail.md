@@ -62,5 +62,5 @@ npm install -g caprover
 ```
 
 ```
-caprover serversetup2
+caprover serversetup
 ```
