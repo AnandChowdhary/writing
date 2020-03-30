@@ -28,9 +28,68 @@
 
 _Answers will be added here_
 
+### Page 1
+
+> **Author's note:** As a kid born and raised in New Delhi, India, it's very exciting to see research come from the Institute of Engineering & Management in Kolkata.
+
+#### One ancient example of disruptive tech
+
+- The use of the bow and arrow, and gunpowder in later centuries are instances of how the adoption of a disruptive technology and its innovative application had decisively impacted the creation of new empires and kingdoms.
+- "Babylonian machine planter"
+
+#### The three recent revolutions, dates and eventualities
+
+- The first industrial revolution (1765 –) used water and steam to mechanise production, the second (1870 –) used electric energy to create mass production and the third (1969 –) used electronics and information technology to automate production
+
+#### What characterizes the fourth revolution in the "present scenario"
+
+- "Now a fourth industrial revolution is underway which builds upon the third revolution, and the digital revolution that has been taking place since the middle of the last century. This fourth revolution is powered by the emergence of the INTERNET and DIGITALISATION and characterises technology that blurs the lines between the physical, digital and biological spheres to disrupt industries all over the world."
+
+#### List 4th revolution disruptive technologies. At what does industry aim?
+
+- "Industry of today and tomorrow aim to connect all production means to enable their interaction in real time. Communication and coordination among the different players and connected objects in a production line will become possible thanks to technology such as Cloud, Big Data Analytics, Artificial Intelligence and the Internet of Things. Factories of tomorrow will be increasingly embedded in Smart Cities. It may not be long before these changes extend to semi-urban centres and villages as well."
+- "Industrial Robots will work in three shifts, seven days a week without any unionisation and industrial relations problems. These robots will replace manpower at many levels."
+- "Advances in software, especially machine-learning, deep learning and neural networks, are key enablers of knowledge work automation. This Artificial Intelligence will lead to the elimination of many routine white collar jobs."
+- The Energy Sector is witnessing far-reaching changes. Renewable Energy comprising of Solar Power and Wind Power is already competing with energy from fossil fuels with dramatic additions to capacity globally and falling prices.
+
+#### Education - describe advances and projected disruptions
+
+- "The education sector will be highly impacted by the developments in disruptive Information and Communications Technologies, and corresponding innovative changes in pedagogy. In the near future, traditional college and university education connected with high income generating professional courses like science, engineering and management studies may well lose its primacy."
+- "Many mediocre and economically weaker students may prefer to enrol for cheaper online distance courses leaving only the meritorious and well-off students to pursue the expensive higher education delivered by brick and mortar colleges and universities."
+
+#### Robotics - describe advances and projected disruptions
+
+- "Robots will be more sophisticated – with enhanced ‘senses’, dexterity, and intelligence – and will be capable of doing intricate jobs."
+- "Industrial Robots will work in three shifts, seven days a week without any unionisation and industrial relations problems. These robots will replace manpower at many levels."
+- "Companies which use such robots in large numbers will produce goods and services at very competitive rates and are likely to adversely impact traditional manufacturers leading to significant job losses."
+
+#### 3D printers - describe advances and projected disruptions
+
+- "Innovative 3D printers will make forging, die-casting, lathe turning, drilling, broaching, brick laying (for building, construction), RCC work, etc., partially or completely redundant. Mechanical Engineering and Civil Engineering education of the future will not deal with most of the traditional syllabus covered today"
+- "Many household products, toys, decorative items, etc. will be made in the home itself using 3D printers – there will be no need to go to the market"
+
+#### What will be required due to the displacement of human workers; and, if the projections of this paper are correct, then we will need more of which kinds of activities? By implication, which sorts of skills may be most beneficial?
+
+- "These online businesses will generate huge job requirements across diverse functions like logistics, warehousing, etc. and spur business growth worldwide that may partially offset the job losses in the brick and mortar retail sector."
+
+#### Future concerns? Describe.
+
+- "With the exponential growth of Digitalisation and Internet technologies, Cyber Security is emerging as a very serious concern the world over. Recent instances of Hacking and Virus infection have already shown how vulnerable even the most developed countries are to these threats."
+- "A new brand of terrorism – Cyber Terrorism – is on the rise and cannot be ignored. New tools will be needed to preserve the security of international data networks."
+
 ## Research
 
-N. D. van Egmond and H. J. M. de Vries, "Sustainability: The search for the integral worldview," Futures, vol. 43, no. 8, pp. 853–867, 2011, doi: 10.1016/j.futures.2011.05.027.
+### Page 1
+
+The following are quotes from "Disruptive technology and disruptive innovation: ignore at your peril!", available at https://doi.org/10.1080/09537325.2018.1523384 and cited as:
+
+> D. Majumdar, P. K. Banerji, S. Chakrabarti, "Disruptive technology and disruptive innovation: ignore at your peril!," Technology Analysis & Strategic Management, vol. 30, no. 11, pp. 1247–1255, doi: 10.1080/09537325.2018.1523384.
+
+### Page 4
+
+The following are quotes from "Sustainability: The search for the integral worldview", available at https://www.sciencedirect.com/science/article/pii/S0016328711001340#sec0035 and cited as:
+
+> N. D. van Egmond and H. J. M. de Vries, "Sustainability: The search for the integral worldview," Futures, vol. 43, no. 8, pp. 853–867, 2011, doi: 10.1016/j.futures.2011.05.027.
 
 #### How may we view history? Explain "limits to growth" in this context. What are the causes of unsustainability? What has failed to reach popular awareness?
 
@@ -94,3 +153,7 @@ N. D. van Egmond and H. J. M. de Vries, "Sustainability: The search for the inte
 - "Under pressure of the increasing popularity of early Christianity, the Roman emperor Constantin accepted the new religion which he institutionalized into the Roman Catholic Church. At the end of the 4th century, diversity of individual faith was replaced by dogmatic uniformity."
 - "In his book 'From Darwin to Hitler' the historian Weikart shows in detail how very gradually Darwin's ideas were perverted into the ideology of Nazism. In the same way in which certain plant species cannot keep up with the evolutionary process, certain groups of people fall victim to the process of evolution."
 - "The overemphasis on the production factor labor at the extreme left orientation in state communism has been replaced by the equally one-sided emphasis on the production factor capital at the extreme right hand side position. The result is a financial crisis which forms an actual threat for societal sustainability."
+
+#### Notes from class
+
+- When worldviews are too polarized, it's hard to balance (i.e., bring it back together again)
