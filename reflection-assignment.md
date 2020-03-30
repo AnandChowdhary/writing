@@ -44,7 +44,7 @@ As this eliminates several small industries and the need to go to a brick and mo
 
 #### What will be required due to the displacement of human workers; and, if the projections of this paper are correct, then we will need more of which kinds of activities? By implication, which sorts of skills may be most beneficial?
 
-- "These online businesses will generate huge job requirements across diverse functions like logistics, warehousing, etc. and spur business growth worldwide that may partially offset the job losses in the brick and mortar retail sector."
+The authors present a future where disruptive technology means job loss for people, which means people will have a lot more free time for leisure time activities. We'll have to find innovative new ways to keep very large sections of the population engaged and performing new types of activities. Furthermore, there might even be a need for a Universal Basic Income (#TeamYang!) to sustain these unemployed, but more importantly — unemployable, workers. I think the tourism industry will start to see a substantial increase in revenue as more and more people find time to see the world. The best skillset to keep in this world is to be interdisciplinary, not highly specialized, and be able to quickly learn new skills and adapt to the industry's everchanging needs.
 
 #### Future concerns? Describe.
 
