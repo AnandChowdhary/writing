@@ -5,6 +5,7 @@ import { safeLoad } from "js-yaml";
 import { readFile, writeFile } from "fs-extra";
 import { join } from "path";
 import { google } from "googleapis";
+import slugify from "@sindresorhus/slugify";
 
 const oauth2Client = new google.auth.OAuth2(
   process.env.GOOGLE_DOCS_CLIENT_ID,
