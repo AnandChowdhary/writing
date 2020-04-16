@@ -13,3 +13,9 @@ oauth2Client.setCredentials({
 });
 
 const docs = google.docs("v1");
+
+const update = async () => {
+  console.log("Updating files from Google Docs");
+};
+
+update();

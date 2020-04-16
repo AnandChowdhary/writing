@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "description": "Repo for writing",
   "main": "index.js",
+  "scripts": {
+    "update": "ts-node update.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AnandChowdhary/writing.git"
