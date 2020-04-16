@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/AnandChowdhary/writing#readme",
   "devDependencies": {
+    "@types/node": "^13.11.1",
     "dotenv": "^8.2.0"
   },
   "dependencies": {
