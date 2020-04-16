@@ -1,7 +1,7 @@
 ---
 title: GP Reflection
 documentId: 1GJzEeE2mZ4erjTrql73zH5HohXvTRsP6e0fvspZYYek
-revisionId: AEUikculq548AWqjJa6YWqHMp4N0zJYH74-wCk62QOuddlXrusnO-NXC0e767jYuZ9_YGi25AXZlc72PLxC2gRo
+revisionId: AEUikcvBL8lw6bQywIimuYMYAtj8osu31IMl0EGMrrUwZfX3gSTEq5SGJXydC-_XXQbwNE-7JjtLW2MaiwYmXv0
 ---
 
 ## Short Reflection Report
@@ -34,3 +34,5 @@ More interestingly, there is no visible indicator for readers to verify whether 
 1. J. Cranshaw et al., “Calendar.help: Designing a Workflow-Based Scheduling Agent with Humans in the Loop,” May 2017, doi: 10.1145/3025453.3025780.
 1. T. Montal, Z. Reich, “I, Robot. You, Journalist. Who is the Author?”, Digital Journalism, 05-Aug-2005, doi: doi:10.1080/21670811.2016.1209083.
 1. K. N. Dörr, K. Hollnbuchner, “Ethical Challenges of Algorithmic Journalism”, 21-Apr-2017, doi:10.1080/21670811.2016.1167612.
+
+
