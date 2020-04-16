@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/AnandChowdhary/writing/issues"
   },
-  "homepage": "https://github.com/AnandChowdhary/writing#readme"
+  "homepage": "https://github.com/AnandChowdhary/writing#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
