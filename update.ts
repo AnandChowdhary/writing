@@ -2,9 +2,10 @@ import { config } from "dotenv";
 config();
 
 import { safeLoad } from "js-yaml";
-import { writeFile } from "fs-extra";
-
+import { readFile, writeFile } from "fs-extra";
+import { join } from "path";
 import { google } from "googleapis";
+
 const oauth2Client = new google.auth.OAuth2(
   process.env.GOOGLE_DOCS_CLIENT_ID,
   process.env.GOOGLE_DOCS_CLIENT_SECRET,
@@ -19,6 +20,21 @@ const docs = google.docs("v1");
 
 const update = async () => {
   console.log("Updating files from Google Docs");
+  const yaml = await readFile(join(".", "docs.yml"), "utf8");
+  const documentIds: string[] = safeLoad(yaml);
+
+  for await (const documentId of documentIds) {
+    console.log("Downloading document", documentId);
+    try {
+      const result = await docs.documents.get({
+        documentId,
+        auth: oauth2Client,
+      });
+      console.log("Downloaded document", result.data.title);
+    } catch (error) {
+      console.log("Got an error", error);
+    }
+  }
 };
 
 update();
