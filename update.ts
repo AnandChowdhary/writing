@@ -5,6 +5,7 @@ import { safeLoad } from "js-yaml";
 import { readFile, writeFile } from "fs-extra";
 import { join } from "path";
 import { google } from "googleapis";
+import { googleDocsToMarkdown } from "docs-markdown";
 import slugify from "@sindresorhus/slugify";
 
 const oauth2Client = new google.auth.OAuth2(
@@ -31,6 +32,11 @@ const update = async () => {
         documentId,
         auth: oauth2Client,
       });
+      if (!result.data.title) throw new Error("Title not found");
+      await writeFile(
+        join(".", `${slugify(result.data.title)}.md`),
+        googleDocsToMarkdown(result)
+      );
       console.log("Downloaded document", result.data.title);
     } catch (error) {
       console.log("Got an error", error);
