@@ -1,0 +1,18 @@
+{
+  "name": "writing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Repo for writing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandChowdhary/writing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC BY 4.0",
+  "bugs": {
+    "url": "https://github.com/AnandChowdhary/writing/issues"
+  },
+  "homepage": "https://github.com/AnandChowdhary/writing#readme"
+}
