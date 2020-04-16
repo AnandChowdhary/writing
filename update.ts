@@ -1,6 +1,9 @@
 import { config } from "dotenv";
 config();
 
+import { safeLoad } from "js-yaml";
+import { writeFile } from "fs-extra";
+
 import { google } from "googleapis";
 const oauth2Client = new google.auth.OAuth2(
   process.env.GOOGLE_DOCS_CLIENT_ID,

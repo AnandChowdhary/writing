@@ -19,10 +19,14 @@
   },
   "homepage": "https://github.com/AnandChowdhary/writing#readme",
   "devDependencies": {
+    "@types/fs-extra": "^8.1.0",
+    "@types/js-yaml": "^3.12.3",
     "@types/node": "^13.11.1",
     "dotenv": "^8.2.0"
   },
   "dependencies": {
-    "googleapis": "^49.0.0"
+    "fs-extra": "^9.0.0",
+    "googleapis": "^49.0.0",
+    "js-yaml": "^3.13.1"
   }
 }
