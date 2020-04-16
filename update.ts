@@ -26,7 +26,7 @@ const update = async () => {
   const documentIds: string[] = safeLoad(yaml);
 
   for await (const documentId of documentIds) {
-    console.log("Downloading document", documentId);
+    console.log("\nDownloading document", documentId);
     try {
       const result = await docs.documents.get({
         documentId,
@@ -35,7 +35,7 @@ const update = async () => {
       if (!result.data.title) throw new Error("Title not found");
       await writeFile(
         join(".", `${slugify(result.data.title)}.md`),
-        googleDocsToMarkdown(result)
+        googleDocsToMarkdown(result.data)
       );
       console.log("Downloaded document", result.data.title);
     } catch (error) {
