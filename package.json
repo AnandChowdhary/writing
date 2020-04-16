@@ -17,5 +17,8 @@
   "homepage": "https://github.com/AnandChowdhary/writing#readme",
   "devDependencies": {
     "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "googleapis": "^49.0.0"
   }
 }
