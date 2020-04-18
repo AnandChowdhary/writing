@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: AEUikctrwmJIcxZWBWGwLVaWW7to67ThfKz25Vfq8eGCheeBX088XVISWGA9VuCq1H01G1GEi_a0fI3tYDO4c4g
+revisionId: AEUikcs2UQMWktbPuEKql5hg9Lkhz2zWxBOfKFDAZooWn7P2NNzq9tZ92imv7zmz_NRarYZCyMLjA0PmJsGH5Tg
 ---
 
 # EIVA
@@ -59,6 +59,9 @@ Although digital calendars have been the standard office tool for professionals,
 
 The previous section highlights that although there is a multitude of scheduling softwares available, they are not EIVAs and therefore lack the potential benefit that personalized AI technology could bring. Today, there are early products available in the market that have some features of an EIVA, like automatically responding to emails and recommending meeting times based on multiple calendars. The industry leader is x.ai, a New York-based startup founded in 2014 that has raised over $40 million in venture capital.
 
+_More information here
+_
+
 ## Methods and Techniques
 
 ### Tasks required in scheduling by an EIVA
@@ -89,17 +92,46 @@ In the dynamic environment that is the modern workplace, changing appointment pa
 
 To make sure that all guests have the most recent parameters, confirmations and reminders may be sent by the EIVA. However, not all users use the same calendaring software, with some professionals using no digital calendar at all. Kincaid (1985) reported that approximately one half of all meetings scheduled by professionals were with users using a different calendaring system than their own [6]. Therefore, the EIVA will be required to send these emails using industry standards supported by most software. The primary standard to store and exchange calendaring and scheduling information is the Internet Calendaring and Scheduling Core Object Specification (iCalendar) [29].
 
+### Modern web applications
+
+_This section will talk about the methods and techniques of modern webapps, using different stacks, deploying PWAs, etc.
+_
+
 ## Ideation
+
+_This section will show the ideation stage of development, including many cycles of prototypes and mockups for the app UI, the system architecture, etc.
+_
 
 ## Specification
 
+_This section will discuss the specifics on how the EIVA will be built
+_
+
 ## Realization
 
+### Product development
+
+#### Process specification
+
+_Insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart
+_
+
+### User research
+
+_This section will discuss the methodology of the UX research
+_
+
 ## Evaluation
+
+_This section will discuss the results of UX research, what features people like, their privacy preferences, ease of use, analytics from the app, etc.
+_
 
 ## Conclusion
 
 ## Future Work
+
+_This section will discuss the business use case and how Speakup can hypothetically launch the product to their clients in the future
+_
 
 ## Appendices
 
