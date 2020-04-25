@@ -1,8 +1,10 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BUrH8jpJAkwuUA2qO3w6pUpTgOxdYGzNVczOG6aJ2tpFHjfeMbP4ijT62fiMYw6T9-gRYuyjFvh9Hjs5IA
+revisionId: ALm37BUDeTwyZkGh7bKFpaR-_RZ7q6snGMJZ6PLS789BHYfen4fIJjfWxOKckwLq2QkthyoRSkXuwCBXfeE8Et0
 ---
+
+#  
 
 # EIVA
 
@@ -39,11 +41,7 @@ There are several calendaring software products available to professionals, both
 
 However, company-wide adoption of scheduling software is troublesome. For end users, it requires behavioral change, such as using a different tool than they are used to [14]. Additionally, there is no “one size fits all” solution to calendaring, because there is a wide variation in people’s meeting needs. For example, a professor who wants to schedule office hours with students might want students to pick their preferred meeting times, whereas a corporate executive might want to heavily control their availability times and response to meeting requests.
 
-#### Assistants
-
 Professionals who can afford to hire assistants choose to delegate the hassle of scheduling. In a survey of administrative assistants, all but one reported that most of their work was scheduling-related, wasting hundreds of man-hours [15].
-
-Regardless of whether the professional or their assistant schedules appointments, the time wasted is not insignificant. According to the European Commission, the average Dutch small or medium-sized enterprise (SME) employs 3.2 people [5]. If each employee attends 7 meetings per week (which is the average for professionals), 26 otherwise productive hours are wasted every month in scheduling meetings [6]. This costs the company over €450 in lost time, based on the average wage of €17.6 per hour [7]. This adds up to almost €2.25 billion per year for the SME industry as a whole, and the numbers are even higher for larger enterprises. University of Twente, for example, employs 3,150 professionals, adding up to over €400,000 in lost time per year.
 
 ### Shortfalls of currently available scheduling tools
 
@@ -55,14 +53,35 @@ Apart from calendaring tools, some users opt for scheduling tools that have addi
 
 Although digital calendars have been the standard office tool for professionals, they are currently unable to bridge the communication gap between the end user and the invitees. Current scheduling products also lack a holistic solution to calendaring due to a wide variation in people’s meeting needs. Thus, end users have to rely upon emailing to communicate meeting details effectively, wasting otherwise productive man-hours.
 
-### Currently available scheduling assistants
+### Currently available scheduling tools
 
-The previous section highlights that although there is a multitude of scheduling softwares available, they are not EIVAs and therefore lack the potential benefit that personalized AI technology could bring. Today, there are early products available in the market that have some features of an EIVA, like automatically responding to emails and recommending meeting times based on multiple calendars. The industry leader is x.ai, a New York-based startup founded in 2014 that has raised over $40 million in venture capital.
+The previous section highlights that although there is a multitude of scheduling softwares available, they are not EIVAs and therefore lack the potential benefit that personalized AI technology could bring. Today, there are early products available in the market that have some features of an EIVA, like automatically responding to emails and recommending meeting times based on multiple calendars.
 
-_More information here
-_
+Microsoft’s Cortana, though primarily a speech-based assistant targeted towards consumers, has calendaring and scheduling features as well. Cortana has built-in Office 365 capabilities, Microsoft’s enterprise solution that includes integrated email accounts with calendars. Apart from being available on mobile devices, Cortana is also built into Windows 10, which has over 400 million users. Similarly, Amazon’s Alexa and Apple’s Siri also have scheduling features.
+
+The leader in the AI-powered scheduling assistant industry is x.ai, a New York-based startup founded in 2014 that has raised over $40 million in venture capital. Using the service, customers can select between Amy and Andrew, a female and male virtual assistant respectively. A major competitor to x.ai is Clara by Clara Labs, a similar virtual assistant for scheduling over email. Clara can also send email reminders to confirm attendance and find available conference rooms in an office.
+
+In the Netherlands, a popular service called Datumprikker allows users to send meeting invitations, allowing guests to select their preferred times. Calendly, an Atlanta-based startup, currently leads this category, although their product is focused on one-on-one meetings as opposed to Datumprikker’s preference for multiple guests.
+
+There are also highly specialized solutions available. For example, in the travel space, Mezi uses a chatbot interface to ask the user questions, and can book their flights and hotels automatically and add them to the user’s calendar. In the high-tech space, Google’s Duplex uses advanced neural text-to-speech and speech recognition to place real phone calls to businesses to schedule appointments.
 
 ## Methods and Techniques
+
+Regardless of whether the professional or their assistant schedules appointments, the time wasted is not insignificant. According to the European Commission, the average Dutch small or medium-sized enterprise (SME) employs 3.2 people [5]. If each employee attends 7 meetings per week (which is the average for professionals), 26 otherwise productive hours are wasted every month in scheduling meetings [6]. This costs the company over €450 in lost time, based on the average wage of €17.6 per hour [7]. This adds up to almost €2.25 billion per year for the SME industry as a whole, and the numbers are even higher for larger enterprises. University of Twente, for example, employs 3,150 professionals, adding up to over €400,000 in lost time per year.
+
+### Modern web applications
+
+_This section will talk about the methods and techniques of modern webapps, using different stacks, deploying PWAs, etc.
+_
+
+## Ideation
+
+_This section will show the ideation stage of development, including many cycles of prototypes and mockups for the app UI, the system architecture, etc.
+_
+
+## Specification
+
+_This section will discuss the specifics on how the EIVA will be built_
 
 ### Tasks required in scheduling by an EIVA
 
@@ -91,21 +110,6 @@ Since not all guests may be available at the initially proposed time, the next m
 In the dynamic environment that is the modern workplace, changing appointment parameters is commonplace. A study found that 66% of all scheduled meetings by a CEO underwent a parameter change [4]. Inevitably, once a meeting is scheduled, it requires “continuous maintenance, as new events often prompt meeting updates and reschedules” [8]. To finalize the meeting parameters, the EIVA should take into account the parameter preferences of both the user and all guests.
 
 To make sure that all guests have the most recent parameters, confirmations and reminders may be sent by the EIVA. However, not all users use the same calendaring software, with some professionals using no digital calendar at all. Kincaid (1985) reported that approximately one half of all meetings scheduled by professionals were with users using a different calendaring system than their own [6]. Therefore, the EIVA will be required to send these emails using industry standards supported by most software. The primary standard to store and exchange calendaring and scheduling information is the Internet Calendaring and Scheduling Core Object Specification (iCalendar) [29].
-
-### Modern web applications
-
-_This section will talk about the methods and techniques of modern webapps, using different stacks, deploying PWAs, etc.
-_
-
-## Ideation
-
-_This section will show the ideation stage of development, including many cycles of prototypes and mockups for the app UI, the system architecture, etc.
-_
-
-## Specification
-
-_This section will discuss the specifics on how the EIVA will be built
-_
 
 ## Realization
 
