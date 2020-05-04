@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BUDeTwyZkGh7bKFpaR-_RZ7q6snGMJZ6PLS789BHYfen4fIJjfWxOKckwLq2QkthyoRSkXuwCBXfeE8Et0
+revisionId: ALm37BWQ0jBT9CYjX8BGgGq5QH3Re48k63_6BtZ5LzwJsVJ5jtMpLGXWxa9lV3CpumTs-ySgNeEoFfZgMHrp218
 ---
 
 #  
@@ -64,6 +64,11 @@ The leader in the AI-powered scheduling assistant industry is x.ai, a New York-b
 In the Netherlands, a popular service called Datumprikker allows users to send meeting invitations, allowing guests to select their preferred times. Calendly, an Atlanta-based startup, currently leads this category, although their product is focused on one-on-one meetings as opposed to Datumprikker’s preference for multiple guests.
 
 There are also highly specialized solutions available. For example, in the travel space, Mezi uses a chatbot interface to ask the user questions, and can book their flights and hotels automatically and add them to the user’s calendar. In the high-tech space, Google’s Duplex uses advanced neural text-to-speech and speech recognition to place real phone calls to businesses to schedule appointments.
+
+### Author’s previous work
+
+_Include a section about previous versions and timelines of Ara – Dennis. Maybe add the UToday article starting with “Anand’s AI assistant…”?
+_
 
 ## Methods and Techniques
 
