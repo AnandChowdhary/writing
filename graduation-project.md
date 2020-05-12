@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BWQ0jBT9CYjX8BGgGq5QH3Re48k63_6BtZ5LzwJsVJ5jtMpLGXWxa9lV3CpumTs-ySgNeEoFfZgMHrp218
+revisionId: ALm37BVfc_eN-0xQ35hHBRpVirFFXYsUZCuoaIXy4zOHne5uGybpLXLH74HN9Fl4ZJMrvAYUkUiFzGpM44TAQJU
 ---
 
 #  
@@ -67,12 +67,25 @@ There are also highly specialized solutions available. For example, in the trave
 
 ### Author’s previous work
 
-_Include a section about previous versions and timelines of Ara – Dennis. Maybe add the UToday article starting with “Anand’s AI assistant…”?
+EIVA is the evolution of a project I envisioned several years ago. In October 2017, Speakup organized a hackathon in Enschede, and I participated with Mohit Ahuja to build a concept of a disruptive communication technology. During the 24-hour period, we built “Ara”, a scheduling chatbot app which could message people from your team on your behalf to schedule meetings. We won two awards worth €500 each. Although Ara was only a prototype of an app-based assistant, it started a relationship with Florian Overkamp, the founder and chief entrepreneur of Speakup, and we decided to take the idea forward.
+
+During the coming summer, I worked closely with Speakup on materializing Ara. For a period of two months, I expanded on the idea of scheduling assistants and decided to focus on email as the primary form factor. At the end of the project, I had a functional prototype of an assistant that could send appointment confirmation emails and used “Wizard of Oz AI” to understand natural language, primarily based on a few “if” conditions.
+
+For a few months, I used Ara myself to test the assistant. In fact, in a 2017 interview titled “UT student among the top 50 young entrepreneurs” with UToday, University of Twente’s independent publication, Jelle Posthuma stated the following:
+
+_It was easy to schedule an interview with the first-year student of Creative Technology. His “personal assistant” Ara sent a friendly email replying: “You’ll be welcome to come next Wednesday.” Chowdhary is a co-owner of the company Oswald Labs, which develops products for people with disabilities. His office is in Roombeek. “Anand, you’re working hard: you even have a personal assistant…” A big grin appears on the young student’s face. “Yes, I built her myself. Ara is a computer. Her AI recognizes emails and schedules my appointments.”
 _
+
+Although Ara didn’t have any AI at this point, it was a successful proof-of-concept. The following summer, I worked again with Speakup, but primarily on building on top of an open-source SaaS framework that I had built over a few months (Staart API and Staart UI). This is the underlying framework that EIVA is built on top of. The budget also allowed me to spend some more time on exploring what a service-orientated implementation of Ara could look like.
+
+During this Graduation Project, I decided to continue working with Speakup, and EIVA is a direct successor to Ara. However, the thesis presented the opportunity to take a research-driven approach, and no earlier code was reused, resulting in a new product built from the ground up with more sophisticated languages and frameworks.
+
+**Table 1: A comparison of Ara and EIVA
+**
 
 ## Methods and Techniques
 
-Regardless of whether the professional or their assistant schedules appointments, the time wasted is not insignificant. According to the European Commission, the average Dutch small or medium-sized enterprise (SME) employs 3.2 people [5]. If each employee attends 7 meetings per week (which is the average for professionals), 26 otherwise productive hours are wasted every month in scheduling meetings [6]. This costs the company over €450 in lost time, based on the average wage of €17.6 per hour [7]. This adds up to almost €2.25 billion per year for the SME industry as a whole, and the numbers are even higher for larger enterprises. University of Twente, for example, employs 3,150 professionals, adding up to over €400,000 in lost time per year.
+...
 
 ### Modern web applications
 
@@ -122,8 +135,29 @@ To make sure that all guests have the most recent parameters, confirmations and 
 
 #### Process specification
 
-_Insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart
-_
+_Insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart_
+
+#### Open source development
+
+Although the preceding project Ara was licensed under the open source permissive MIT license, EIVA’s source code is made available under the Server Side Public License. This license makes sure that any further implementations or paid services built around EIVA also have their source code made public, and helps the future business use case of EIVA.
+
+However, several open source projects were built in order to support key EIVA features, which were all licensed under the MIT license. This encourages wide community adoption and contributes back to the open source ecosystem, as MIT is the most popular open source license and allows commercial usage of open source projects.
+
+For example, the open source project “calendar-link” was built in order to generate event links to popular calendar services like Google Calendar, Microsoft Outlook, and Yahoo! Calendar. This project is now used by many others, receiving over 1,000 downloads every week and contributed to by 5 additional developers. Developers can use the package to programmatically generate that users can click on to add a specific event to their calendar, with an easy-to-use API:
+
+const { google, outlook } = require("calendar-link");const event = {  title: "My birthday party", // Title of the event  description: "Be there!", // Event description  start: "2019-12-29 18:00:00 +0100", // JavaScript-recognizable date  duration: [3, "hour"] // Event duration};google(event); // https://calendar.google.com/calendar/render...outlook(event); // https://outlook.live.com/owa/...
+
+Similarly, another project “calendar-slots” was released to help find available slots in a user’s calendar. This package can save development times when recommending appointment slots by listing a user’s calendars, fetching all events in a given timeframe, removing slots with conflicts with scheduled events, and recommending a fixed number of slots to the end user:
+
+const { getSlots } = require("calendar-slots");import moment from "moment"; // Import JavaScript date library momentconst now = moment();const tomorrow = moment().add(1).day().endOf("day");const slots = await getSlots({  slotDuration: 30, // Find 30 minute slots  slots: 3, // Recommend 3 slots  from: now, // Starting now  to: tomorrow, // Until tomorrow});
+
+It is also highly configurable, with support for settings such as timezone preference, daily scheduling hours, and custom filter options:
+
+const slots = await getSlots({  slotDuration: 30, // Find 30 minute slots  slots: 3, // Recommend 3 slots  from: now, // Starting now  to: tomorrow, // Until tomorrow,  days: [1, 2, 3, 4, 5], // Monday to Friday  daily: {    timezone: "Europe/Amsterdam", // CET time    from: [9], // Start at 9:00 am    to: [17, 30], // End before 5:30 pm  },});
+
+Both projects are written in TypeScript and available on the Git hosting service GitHub and JavaScript package registry NPM.
+
+**Figure 1: A screenshot of the “calendar-events” source code**
 
 ### User research
 
@@ -139,14 +173,26 @@ _
 
 ## Future Work
 
-_This section will discuss the business use case and how Speakup can hypothetically launch the product to their clients in the future
-_
+_This section will discuss the business use case and how Speakup can hypothetically launch the product to their clients in the future_
+
+In the literature research for this paper, it is highlighted that professionals currently either schedule appointments themselves or hire assistants to help with the task. However, regardless of whether the professional or their assistant schedules appointments, the time wasted is not insignificant. According to the European Commission, the average Dutch small or medium-sized enterprise (SME) employs 3.2 people [5]. If each employee attends 7 meetings per week (which is the average for professionals), 26 otherwise productive hours are wasted every month in scheduling meetings [6]. This costs the company over €450 in lost time, based on the average wage of €17.6 per hour [7]. This adds up to almost €2.25 billion per year for the SME industry as a whole, and the numbers are even higher for larger enterprises. University of Twente, for example, employs 3,150 professionals, adding up to over €400,000 in lost time per year.
+
+Therefore, a strong business case can be built around launching EIVA as a service. Since the assistant can save around €150 in lost time per month for professionals, a service that costs as high as €100 per month per person has a return on investment (ROI) of 50%. In my personal opinion, a pricing point of less than €50 per month can be achieved because of the low cloud infrastructure costs. The proposed pricing plans are:
+
+1. Basic plan for €10 per month, targeted towards students, self-employed young professionals, and early-stage entrepreneurs with no support for custom domain, but including unlimited scheduling and assistant usage
+1. Pro plan for €25 per month with support for custom domain
+1. Team plan for €30 per user per month, targeted towards businesses or institutions who want to onboard their entire team to EIVA for a collaborative experience
+1. Custom plan with custom billing for large enterprises with features like dedicated support, on-premise hosting, and uptime service-level agreements (SLA)
 
 ## Appendices
 
-### Appendix 1: Reflection
+### Appendix 1: About the Author
 
-### Appendix 2: Academic Writing
+### Appendix 2: Reflection
+
+### Appendix 3: Academic Writing
+
+### Appendix 4: Open source licenses
 
 ## References
 
