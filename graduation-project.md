@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BVfc_eN-0xQ35hHBRpVirFFXYsUZCuoaIXy4zOHne5uGybpLXLH74HN9Fl4ZJMrvAYUkUiFzGpM44TAQJU
+revisionId: ALm37BUCpV1gKbcgN0LZUnEfLJAop0vaxr0Wq3MztdwA0opgwmlXdWp5bn_PT_C9ngkEF3UzOLNmHDpV_GmNqp8
 ---
 
 #  
@@ -15,6 +15,11 @@ Creative Technology BScGraduation Project
 Anand ChowdharyS1930702
 
 ## Contents
+
+## Acknowledgements
+
+- Mohit and Florian for initial hackathon
+- AWS credits
 
 ## Introduction
 
@@ -32,8 +37,6 @@ Lastly, a significant part of this paper will focus on the methodology and resul
 ## State of the Art
 
 ### How professionals schedule appointments
-
-#### Calendars
 
 In their fundamental forms, calendars are the “most basic of all human sensemaking devices” [9]. From time immemorial, calendars have been used as tools to establish patterns through which nearly all institutions, societies, and social groups manage orderliness. Notably, the first “book” printed by Gutenberg in 1452 was a calendar [10], and today, professionals increasingly use digital calendars for the same purpose of time management and accountability. Digital calendars have become “the standard office tool for coordinating and synchronizing work activities” [9].
 
@@ -67,7 +70,7 @@ There are also highly specialized solutions available. For example, in the trave
 
 ### Author’s previous work
 
-EIVA is the evolution of a project I envisioned several years ago. In October 2017, Speakup organized a hackathon in Enschede, and I participated with Mohit Ahuja to build a concept of a disruptive communication technology. During the 24-hour period, we built “Ara”, a scheduling chatbot app which could message people from your team on your behalf to schedule meetings. We won two awards worth €500 each. Although Ara was only a prototype of an app-based assistant, it started a relationship with Florian Overkamp, the founder and chief entrepreneur of Speakup, and we decided to take the idea forward.
+EIVA is the evolution of a project the author envisioned several years ago along with the client. In October 2017, the client (Speakup BV) organized a hackathon in Enschede, and the author participated with a colleague to build a concept of a disruptive communication technology. During the 24-hour period, we built “Ara”, a scheduling chatbot app which could message people from your team on your behalf to schedule meetings. We won two awards worth €500 each. Although Ara was only a prototype of an app-based assistant, it started a relationship with Florian Overkamp, the founder and chief entrepreneur of Speakup, and we decided to take the idea forward.
 
 During the coming summer, I worked closely with Speakup on materializing Ara. For a period of two months, I expanded on the idea of scheduling assistants and decided to focus on email as the primary form factor. At the end of the project, I had a functional prototype of an assistant that could send appointment confirmation emails and used “Wizard of Oz AI” to understand natural language, primarily based on a few “if” conditions.
 
@@ -129,13 +132,57 @@ In the dynamic environment that is the modern workplace, changing appointment pa
 
 To make sure that all guests have the most recent parameters, confirmations and reminders may be sent by the EIVA. However, not all users use the same calendaring software, with some professionals using no digital calendar at all. Kincaid (1985) reported that approximately one half of all meetings scheduled by professionals were with users using a different calendaring system than their own [6]. Therefore, the EIVA will be required to send these emails using industry standards supported by most software. The primary standard to store and exchange calendaring and scheduling information is the Internet Calendaring and Scheduling Core Object Specification (iCalendar) [29].
 
+### Architectural specification
+
+Why Node.js, why Vue.js, AWS stack details, insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart
+
 ## Realization
 
 ### Product development
 
-#### Process specification
+#### Development cycles
 
-_Insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart_
+A simplified version of the Software Development Cycle and the New Product Development Cycle were adopted for this project, with the following steps:
+
+1. Idea
+1. Research
+1. Development
+1. External testing
+1. Analysis
+
+The first step (Idea) builds on top of the ideation phase with methodological exploration of the idea and specifying the required feature as a module. In the second step (Research), the technical literature research present in “State of the Art” is studied to architect the module’s technology. In the third step (Development), the idea is materialized by writing code and testing the module by writing unit tests and conducting end-to-end tests with the platform. In the fourth step (External testing), a test is conducted with the client or research participants. In the last step (Analysis), the feedback from the test is evaluated for the next cycle.
+
+##### Cycle 1
+
+The first cycle was internal with both the initial development and several refactors. This was the only cycle that did not undergo an external test.
+
+###### Project architecture
+
+...file structure...controller injection...npm server scripts…third-party services like S3 and google...etc.
+
+###### Feature availability
+
+####### Assistant email address
+
+One of the specification conditions was to ensure unique email addresses for each organization using the assistant service, because teams may have similar names of assistants. For example, the default name of the assistant, “Ara Isaacson”, may generate the email address “ara@araassistant.com”, which does not share any information about who the assistant works for. Since unique email addresses for each team is mandatory, the team’s slug was incorporated in the address, i.e., “username@araassistant.com”, for example “florian@araassistant.com”. This has two advantages: firstly, it tells the guests receiving emails from the assistant who the true host is; and secondly, the email receiving architecture can relate the unique email address to the owner’s details.
+
+However, in the first cycle itself, the assistant’s default email was changed from “username@domain” to “meet-username@domain” where “username” is the organization slug and the domain is the assistant’s service domain. This was done to prevent confusion based on the email address; for example, “florian@araassistant.com” may be mistaken as the email address of Florian himself (the user), whereas “meet-florian@araassistant.com” implies that the email address is of the assistant, using which you can schedule an appointment with Florian.
+
+##### Cycle 2
+
+Cycle 2 was the first cycle with direct feedback from the external client, apart from the initial specification and early ideation. The client and the researcher had a 30-minute video call with screen sharing.
+
+###### Feature availability
+
+- Natural language classification for email intent
+- Entity extraction for people, locations, dates, etc.
+- Slot recommendation
+- Guest information enrichment
+- Email read receipts tracking API
+
+###### Client feedback
+
+...
 
 #### Open source development
 
@@ -193,6 +240,8 @@ Therefore, a strong business case can be built around launching EIVA as a servic
 ### Appendix 3: Academic Writing
 
 ### Appendix 4: Open source licenses
+
+List of dependencies and their licenses
 
 ## References
 
