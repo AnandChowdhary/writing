@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BUCpV1gKbcgN0LZUnEfLJAop0vaxr0Wq3MztdwA0opgwmlXdWp5bn_PT_C9ngkEF3UzOLNmHDpV_GmNqp8
+revisionId: ALm37BWE2OV67LFiZe02TEsCMmswPlg2aPIfZ6Be7g7NXwf2WySJPAunPz7tZLErLo7lzTLQoeiVRUdWupUYaFQ
 ---
 
 #  
@@ -174,11 +174,11 @@ Cycle 2 was the first cycle with direct feedback from the external client, apart
 
 ###### Feature availability
 
-- Natural language classification for email intent
-- Entity extraction for people, locations, dates, etc.
-- Slot recommendation
-- Guest information enrichment
-- Email read receipts tracking API
+- Natural language classification for email intent - 90%
+- Entity extraction for people, locations, dates, etc. - awareness
+- Slot recommendation - ics
+- Guest information enrichment - optional
+- Email read receipts tracking API - optional (sensible defaults)
 
 ###### Client feedback
 
