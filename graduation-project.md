@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BWE2OV67LFiZe02TEsCMmswPlg2aPIfZ6Be7g7NXwf2WySJPAunPz7tZLErLo7lzTLQoeiVRUdWupUYaFQ
+revisionId: ALm37BUH6AZiNLQZkhu6MQidFJkXUUpfJecqgJSnNItu6t9pcczdUEJfFyMFnqBXON-gUQknK7cDEUNOfcGlBEo
 ---
 
 #  
@@ -182,7 +182,7 @@ Cycle 2 was the first cycle with direct feedback from the external client, apart
 
 ###### Client feedback
 
-...
+- NLP in multiple languages rather than translation, let’s start with Dutch and English, with a “fallback” with translation: “I find that hard to be very black and white on. Eventually, you want to have very wide language support. The main question is ‘How much do we think will be involved?’ because if we bring this to market, what’s the initial market we want to focus on?” … “”
 
 #### Open source development
 
