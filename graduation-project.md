@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BUH6AZiNLQZkhu6MQidFJkXUUpfJecqgJSnNItu6t9pcczdUEJfFyMFnqBXON-gUQknK7cDEUNOfcGlBEo
+revisionId: ALm37BUvpDcNxwSBUf4WzPjO5inYTL7c3exjoffOeQ2kae3wYpSTl3Cry3-j3ScZvhYVVUGq_8s2psuwA-sjS3c
 ---
 
 #  
@@ -174,15 +174,23 @@ Cycle 2 was the first cycle with direct feedback from the external client, apart
 
 ###### Feature availability
 
-- Natural language classification for email intent - 90%
-- Entity extraction for people, locations, dates, etc. - awareness
-- Slot recommendation - ics
-- Guest information enrichment - optional
-- Email read receipts tracking API - optional (sensible defaults)
+- Natural language classification for email intent_ - 90%
+_
+- UI_ - “It’s highly functional”
+_
+- Entity extraction for people, locations, dates, etc._ - awareness
+_
+- Slot recommendation_ - ICS “What other sources can we support in the calendar-slots module?” “Could you simply read out an ICS calendar?” “From my own use, I would simply create a readable URL that can be input as a user property. I think those downloads can be relatively big, so that may be inefficient, so that’s something to consider. Almost any system can generate an ICS __download link.” “For myself, I create a download link and use some scripts to strip it of any data, like location and title.” “Strip it as soon as you download it, because otherwise you’re potentially storing personal information.”
+_
+- Guest information enrichment_ - Make it optional
+_
+- Email read receipts tracking API_ - optional, “I will definitely want to disable that. Is that configurable?” (sensible defaults) “Research with customer groups whether or not this functionality should be on or off by default” (Anand has added 2 new questions)_
+- meet-florian@mail.subdomain_ - makes perfect sense, also solves the “people making contact@”_
+- “This kind of model is perfectly friendly, really nice. Gives you a feeling of control and still keep it simple enough” You should add something like “you can customize each of the details at a later time if you want to”
 
 ###### Client feedback
 
-- NLP in multiple languages rather than translation, let’s start with Dutch and English, with a “fallback” with translation: “I find that hard to be very black and white on. Eventually, you want to have very wide language support. The main question is ‘How much do we think will be involved?’ because if we bring this to market, what’s the initial market we want to focus on?” … “”
+- NLP in multiple languages rather than translation, let’s start with Dutch and English, with a “fallback” with translation: “I find that hard to be very black and white on. Eventually, you want to have very wide language support. The main question is ‘How much do we think will be involved?’ because if we bring this to market, what’s the initial market we want to focus on?” … “Integrated language support with Dutch, and keep adding new languages over time”
 
 #### Open source development
 
