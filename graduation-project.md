@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BUvpDcNxwSBUf4WzPjO5inYTL7c3exjoffOeQ2kae3wYpSTl3Cry3-j3ScZvhYVVUGq_8s2psuwA-sjS3c
+revisionId: ALm37BUTrPh0AxFqzmfUOeOsIt4CoFPDCjw3p7OEbCi9Hkg40MuwfYbzYwFv5T9nsZ0zOFqjxajHl2RwfM3lCkw
 ---
 
 #  
@@ -213,6 +213,14 @@ const slots = await getSlots({  slotDuration: 30, // Find 30 minute slots  slo
 Both projects are written in TypeScript and available on the Git hosting service GitHub and JavaScript package registry NPM.
 
 **Figure 1: A screenshot of the “calendar-events” source code**
+
+#### Tests
+
+Info about tests
+
+npm run launch # node dist/src/__staart.js✔  success   Listening on 7007✔  success   Redis Test passed✔  success   Redis Message Queue Test passed✔  success   Database connection Test passed✔  success   Sent email staart@mailinator.com Test from Staart✔  success   Email Test passed✔  success   Got 2 pricing plans✔  success   Stripe Test passed✔  success   ElasticSearch Test passed✔  success   All service tests passed
+
+More info about tests
 
 ### User research
 
