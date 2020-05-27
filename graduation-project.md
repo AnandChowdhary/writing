@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BUTrPh0AxFqzmfUOeOsIt4CoFPDCjw3p7OEbCi9Hkg40MuwfYbzYwFv5T9nsZ0zOFqjxajHl2RwfM3lCkw
+revisionId: ALm37BVpI5hh7aHrp27jSiF1xvN3F02k8dJoSqG-TqkzABjddWVWRBi9kfidRMrD4wYVQ5hMvfv0IK9atkIgZPI
 ---
 
 #  
@@ -74,9 +74,13 @@ EIVA is the evolution of a project the author envisioned several years ago along
 
 During the coming summer, I worked closely with Speakup on materializing Ara. For a period of two months, I expanded on the idea of scheduling assistants and decided to focus on email as the primary form factor. At the end of the project, I had a functional prototype of an assistant that could send appointment confirmation emails and used “Wizard of Oz AI” to understand natural language, primarily based on a few “if” conditions.
 
-For a few months, I used Ara myself to test the assistant. In fact, in a 2017 interview titled “UT student among the top 50 young entrepreneurs” with UToday, University of Twente’s independent publication, Jelle Posthuma stated the following:
+For a few months, I used Ara myself and tested the assistant’s email confirmation feature. In fact, in a 2017 interview titled “UT student among the top 50 young entrepreneurs” about my name in the Dutch business newspaper Het Financieele Dagblad’s annual list of the 50 most-innovative entrepreneurs and professionals in the Netherlands with UToday, University of Twente’s independent publication, Jelle Posthuma stated the following in the beginning of the article:
 
-_It was easy to schedule an interview with the first-year student of Creative Technology. His “personal assistant” Ara sent a friendly email replying: “You’ll be welcome to come next Wednesday.” Chowdhary is a co-owner of the company Oswald Labs, which develops products for people with disabilities. His office is in Roombeek. “Anand, you’re working hard: you even have a personal assistant…” A big grin appears on the young student’s face. “Yes, I built her myself. Ara is a computer. Her AI recognizes emails and schedules my appointments.”
+_It was easy to schedule an interview with the first-year student of Creative Technology. His “personal assistant” Ara sent a friendly email replying: “You’ll be welcome to come next Wednesday.” Chowdhary is a co-owner of the company Oswald Labs, which develops products for people with disabilities. His office is in Roombeek. “Anand, you’re working hard: you even have a personal assistant…” A big grin appears on the young student’s face. “Yes, I built her myself. Ara is a computer. Her AI recognizes emails and schedules my appointments.”_
+
+The article was also published by Posthuma in Dutch:
+
+_De afspraak voor een interview met de eerstejaars Creative Technology was snel gemaakt. Zijn ‘personal assistant’ Ara stuurde een vriendelijke mail terug. ‘Aanstaande woensdag ben je welkom.’ Chowdhary is mede-eigenaar van het bedrijf Oswald Labs, dat producten ontwikkelt voor mensen met een handicap. Zijn kantoor is in Roombeek. ‘Anand, je timmert aardig aan de weg: een personal assistant…’ Op het gezicht van de jonge student verschijnt een grote grijns. ‘Ja, ik heb haar zelf gebouwd. Ara is een computer. Haar artificial intelligence herkent mails en plant mijn afspraken in.’
 _
 
 Although Ara didn’t have any AI at this point, it was a successful proof-of-concept. The following summer, I worked again with Speakup, but primarily on building on top of an open-source SaaS framework that I had built over a few months (Staart API and Staart UI). This is the underlying framework that EIVA is built on top of. The budget also allowed me to spend some more time on exploring what a service-orientated implementation of Ara could look like.
@@ -211,8 +215,6 @@ It is also highly configurable, with support for settings such as timezone prefe
 const slots = await getSlots({  slotDuration: 30, // Find 30 minute slots  slots: 3, // Recommend 3 slots  from: now, // Starting now  to: tomorrow, // Until tomorrow,  days: [1, 2, 3, 4, 5], // Monday to Friday  daily: {    timezone: "Europe/Amsterdam", // CET time    from: [9], // Start at 9:00 am    to: [17, 30], // End before 5:30 pm  },});
 
 Both projects are written in TypeScript and available on the Git hosting service GitHub and JavaScript package registry NPM.
-
-**Figure 1: A screenshot of the “calendar-events” source code**
 
 #### Tests
 
