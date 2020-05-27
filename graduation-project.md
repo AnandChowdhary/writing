@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BVpI5hh7aHrp27jSiF1xvN3F02k8dJoSqG-TqkzABjddWVWRBi9kfidRMrD4wYVQ5hMvfv0IK9atkIgZPI
+revisionId: ALm37BXbCiNn9EHcpV_VCwwwXJT0Dv6BepLEGBoBfa3cUwzA9hV2Fq94OFyczOw0iuh8kkTNvRUJtDkb7Ul3z5w
 ---
 
 #  
@@ -140,6 +140,10 @@ To make sure that all guests have the most recent parameters, confirmations and 
 
 Why Node.js, why Vue.js, AWS stack details, insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart
 
+#### On the bleeding edge (of database toolkits)
+
+Talk about why Prisma 2 was chosen, timing, API example vs. native MySQL and the security benefits of query generators, schema, etc.
+
 ## Realization
 
 ### Product development
@@ -224,6 +228,14 @@ npm run launch # node dist/src/__staart.js✔  success   Listening on 7007✔ 
 
 More info about tests
 
+### Deployment
+
+Info about deployment, server, etc. There is a script “update.sh” with the following lines.
+
+git pull --force # Pull repo from GitHubnpm install # Install dependenciesnpx prisma generate # Generate Prisma schemanpm run build # Build TypeScriptpm2 flush # Flush PM2 logspm2 restart all # Restart PM2 apppm2 logs # Show app logs
+
+Each line does this respectively… in the future, load balancers, etc.
+
 ### User research
 
 _This section will discuss the methodology of the UX research
@@ -258,6 +270,8 @@ Therefore, a strong business case can be built around launching EIVA as a servic
 ### Appendix 3: Academic Writing
 
 ### Appendix 4: Open source licenses
+
+### Appendix 5: Prisma schema
 
 List of dependencies and their licenses
 
