@@ -1,7 +1,7 @@
 ---
 title: Graduation Project
 documentId: 1tvOt7nL3ih5_oxujZoyHA8bENMyyfC2gOnxCRjKNrYc
-revisionId: ALm37BXbCiNn9EHcpV_VCwwwXJT0Dv6BepLEGBoBfa3cUwzA9hV2Fq94OFyczOw0iuh8kkTNvRUJtDkb7Ul3z5w
+revisionId: ALm37BUPO6DHvs1THdG9sbpkdG5vBVpy3g3vK_HipBhhPQA76Y_uYD1XQ0hK4QKsTzMsVOjb0ZU4M6-n0JGHMTI
 ---
 
 #  
@@ -56,9 +56,9 @@ Apart from calendaring tools, some users opt for scheduling tools that have addi
 
 Although digital calendars have been the standard office tool for professionals, they are currently unable to bridge the communication gap between the end user and the invitees. Current scheduling products also lack a holistic solution to calendaring due to a wide variation in people’s meeting needs. Thus, end users have to rely upon emailing to communicate meeting details effectively, wasting otherwise productive man-hours.
 
-### Currently available scheduling tools
+### Currently available assistant-based scheduling tools
 
-The previous section highlights that although there is a multitude of scheduling softwares available, they are not EIVAs and therefore lack the potential benefit that personalized AI technology could bring. Today, there are early products available in the market that have some features of an EIVA, like automatically responding to emails and recommending meeting times based on multiple calendars.
+The previous section highlights that although there is a multitude of scheduling softwares available, they are not email-based intelligent virtual assistants (EIVA, /iːvɑ/) and therefore lack the potential benefit that personalized AI technology could bring. Today, there are early products available in the market that have some features of an EIVA, like automatically responding to emails and recommending meeting times based on multiple calendars.
 
 Microsoft’s Cortana, though primarily a speech-based assistant targeted towards consumers, has calendaring and scheduling features as well. Cortana has built-in Office 365 capabilities, Microsoft’s enterprise solution that includes integrated email accounts with calendars. Apart from being available on mobile devices, Cortana is also built into Windows 10, which has over 400 million users. Similarly, Amazon’s Alexa and Apple’s Siri also have scheduling features.
 
@@ -67,6 +67,10 @@ The leader in the AI-powered scheduling assistant industry is x.ai, a New York-b
 In the Netherlands, a popular service called Datumprikker allows users to send meeting invitations, allowing guests to select their preferred times. Calendly, an Atlanta-based startup, currently leads this category, although their product is focused on one-on-one meetings as opposed to Datumprikker’s preference for multiple guests.
 
 There are also highly specialized solutions available. For example, in the travel space, Mezi uses a chatbot interface to ask the user questions, and can book their flights and hotels automatically and add them to the user’s calendar. In the high-tech space, Google’s Duplex uses advanced neural text-to-speech and speech recognition to place real phone calls to businesses to schedule appointments.
+
+### Web development stack
+
+Why Vue.js, TypeScript, Node.js, etc.
 
 ### Author’s previous work
 
@@ -138,11 +142,11 @@ To make sure that all guests have the most recent parameters, confirmations and 
 
 ### Architectural specification
 
-Why Node.js, why Vue.js, AWS stack details, insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart
+Why Node.js, why Vue.js (based on literature research), AWS stack details, insert a flowchart with how the server and different parts in the stack work together, i.e., systems architecture flowchart
 
 #### On the bleeding edge (of database toolkits)
 
-Talk about why Prisma 2 was chosen, timing, API example vs. native MySQL and the security benefits of query generators, schema, etc.
+Talk about why Prisma 2 was chosen, timing, API example vs. native MySQL and the security benefits of query generators, schema, etc. All tables have ID, create/update date
 
 ## Realization
 
