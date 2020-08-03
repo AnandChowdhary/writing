@@ -1,7 +1,7 @@
 ---
 title: COVID-19 open source
 documentId: 1UdAPDdDPQs15APphFxT-6KMi6YfYHtYTN3ufo6SOUU0
-revisionId: ALm37BUNUi-nfjfqrPIRlZXDjVfGrhPZEAEfAgnpWkASOGAVdeE0oP8F0EKedqfz4WblWPttVM1eMHHBf6c5L3o
+revisionId: ALm37BXrDtYIDZkc9ZE9gdwB0XZvhour0xA-m9Gv6hd-nroF9V4onoG6aM5Cvq3iCLAwfmkcrm0sPFmfsC1Hwi0
 ---
 
 # How nonprofits in India are using open source during COVID-19
